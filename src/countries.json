@@ -18,32 +18,11 @@
 		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
 		"nativeName": "افغانستان",
 		"numericCode": "004",
-		"currencies": [
-			{
-				"code": "AFN",
-				"name": "Afghan afghani",
-				"symbol": "؋"
-			}
-		],
+		"currencies": [{ "code": "AFN", "name": "Afghan afghani", "symbol": "؋" }],
 		"languages": [
-			{
-				"iso639_1": "ps",
-				"iso639_2": "pus",
-				"name": "Pashto",
-				"nativeName": "پښتو"
-			},
-			{
-				"iso639_1": "uz",
-				"iso639_2": "uzb",
-				"name": "Uzbek",
-				"nativeName": "Oʻzbek"
-			},
-			{
-				"iso639_1": "tk",
-				"iso639_2": "tuk",
-				"name": "Turkmen",
-				"nativeName": "Türkmen"
-			}
+			{ "iso639_1": "ps", "iso639_2": "pus", "name": "Pashto", "nativeName": "پښتو" },
+			{ "iso639_1": "uz", "iso639_2": "uzb", "name": "Uzbek", "nativeName": "Oʻzbek" },
+			{ "iso639_1": "tk", "iso639_2": "tuk", "name": "Turkmen", "nativeName": "Türkmen" }
 		],
 		"translations": {
 			"de": "Afghanistan",
@@ -87,20 +66,9 @@
 		"borders": [],
 		"nativeName": "Åland",
 		"numericCode": "248",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "sv",
-				"iso639_2": "swe",
-				"name": "Swedish",
-				"nativeName": "svenska"
-			}
+			{ "iso639_1": "sv", "iso639_2": "swe", "name": "Swedish", "nativeName": "svenska" }
 		],
 		"translations": {
 			"de": "Åland",
@@ -116,12 +84,7 @@
 		},
 		"flag": "https://restcountries.eu/data/ala.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": ""
 	},
@@ -144,20 +107,9 @@
 		"borders": ["MNE", "GRC", "MKD", "KOS"],
 		"nativeName": "Shqipëria",
 		"numericCode": "008",
-		"currencies": [
-			{
-				"code": "ALL",
-				"name": "Albanian lek",
-				"symbol": "L"
-			}
-		],
+		"currencies": [{ "code": "ALL", "name": "Albanian lek", "symbol": "L" }],
 		"languages": [
-			{
-				"iso639_1": "sq",
-				"iso639_2": "sqi",
-				"name": "Albanian",
-				"nativeName": "Shqip"
-			}
+			{ "iso639_1": "sq", "iso639_2": "sqi", "name": "Albanian", "nativeName": "Shqip" }
 		],
 		"translations": {
 			"de": "Albanien",
@@ -201,20 +153,9 @@
 		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
 		"nativeName": "الجزائر",
 		"numericCode": "012",
-		"currencies": [
-			{
-				"code": "DZD",
-				"name": "Algerian dinar",
-				"symbol": "د.ج"
-			}
-		],
+		"currencies": [{ "code": "DZD", "name": "Algerian dinar", "symbol": "د.ج" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Algerien",
@@ -274,26 +215,10 @@
 		"borders": [],
 		"nativeName": "American Samoa",
 		"numericCode": "016",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United State Dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United State Dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "sm",
-				"iso639_2": "smo",
-				"name": "Samoan",
-				"nativeName": "gagana fa'a Samoa"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "sm", "iso639_2": "smo", "name": "Samoan", "nativeName": "gagana fa'a Samoa" }
 		],
 		"translations": {
 			"de": "Amerikanisch-Samoa",
@@ -330,20 +255,9 @@
 		"borders": ["FRA", "ESP"],
 		"nativeName": "Andorra",
 		"numericCode": "020",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "ca",
-				"iso639_2": "cat",
-				"name": "Catalan",
-				"nativeName": "català"
-			}
+			{ "iso639_1": "ca", "iso639_2": "cat", "name": "Catalan", "nativeName": "català" }
 		],
 		"translations": {
 			"de": "Andorra",
@@ -380,20 +294,9 @@
 		"borders": ["COG", "COD", "ZMB", "NAM"],
 		"nativeName": "Angola",
 		"numericCode": "024",
-		"currencies": [
-			{
-				"code": "AOA",
-				"name": "Angolan kwanza",
-				"symbol": "Kz"
-			}
-		],
+		"currencies": [{ "code": "AOA", "name": "Angolan kwanza", "symbol": "Kz" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Angola",
@@ -443,20 +346,9 @@
 		"borders": [],
 		"nativeName": "Anguilla",
 		"numericCode": "660",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Anguilla",
@@ -503,30 +395,12 @@
 		"nativeName": "Antarctica",
 		"numericCode": "010",
 		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			}
+			{ "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+			{ "code": "GBP", "name": "British pound", "symbol": "£" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Antarktika",
@@ -563,20 +437,9 @@
 		"borders": [],
 		"nativeName": "Antigua and Barbuda",
 		"numericCode": "028",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Antigua und Barbuda",
@@ -620,26 +483,10 @@
 		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
 		"nativeName": "Argentina",
 		"numericCode": "032",
-		"currencies": [
-			{
-				"code": "ARS",
-				"name": "Argentine peso",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "ARS", "name": "Argentine peso", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			},
-			{
-				"iso639_1": "gn",
-				"iso639_2": "grn",
-				"name": "Guaraní",
-				"nativeName": "Avañe'ẽ"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" },
+			{ "iso639_1": "gn", "iso639_2": "grn", "name": "Guaraní", "nativeName": "Avañe'ẽ" }
 		],
 		"translations": {
 			"de": "Argentinien",
@@ -688,26 +535,10 @@
 		"borders": ["AZE", "GEO", "IRN", "TUR"],
 		"nativeName": "Հայաստան",
 		"numericCode": "051",
-		"currencies": [
-			{
-				"code": "AMD",
-				"name": "Armenian dram",
-				"symbol": null
-			}
-		],
+		"currencies": [{ "code": "AMD", "name": "Armenian dram", "symbol": null }],
 		"languages": [
-			{
-				"iso639_1": "hy",
-				"iso639_2": "hye",
-				"name": "Armenian",
-				"nativeName": "Հայերեն"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "hy", "iso639_2": "hye", "name": "Armenian", "nativeName": "Հայերեն" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Armenien",
@@ -751,26 +582,10 @@
 		"borders": [],
 		"nativeName": "Aruba",
 		"numericCode": "533",
-		"currencies": [
-			{
-				"code": "AWG",
-				"name": "Aruban florin",
-				"symbol": "ƒ"
-			}
-		],
+		"currencies": [{ "code": "AWG", "name": "Aruban florin", "symbol": "ƒ" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			},
-			{
-				"iso639_1": "pa",
-				"iso639_2": "pan",
-				"name": "(Eastern) Punjabi",
-				"nativeName": "ਪੰਜਾਬੀ"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" },
+			{ "iso639_1": "pa", "iso639_2": "pan", "name": "(Eastern) Punjabi", "nativeName": "ਪੰਜਾਬੀ" }
 		],
 		"translations": {
 			"de": "Aruba",
@@ -816,20 +631,9 @@
 		"borders": [],
 		"nativeName": "Australia",
 		"numericCode": "036",
-		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "AUD", "name": "Australian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Australien",
@@ -866,20 +670,9 @@
 		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 		"nativeName": "Österreich",
 		"numericCode": "040",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			}
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" }
 		],
 		"translations": {
 			"de": "Österreich",
@@ -895,12 +688,7 @@
 		},
 		"flag": "https://restcountries.eu/data/aut.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "AUT"
 	},
@@ -923,13 +711,7 @@
 		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
 		"nativeName": "Azərbaycan",
 		"numericCode": "031",
-		"currencies": [
-			{
-				"code": "AZN",
-				"name": "Azerbaijani manat",
-				"symbol": null
-			}
-		],
+		"currencies": [{ "code": "AZN", "name": "Azerbaijani manat", "symbol": null }],
 		"languages": [
 			{
 				"iso639_1": "az",
@@ -973,20 +755,9 @@
 		"borders": [],
 		"nativeName": "Bahamas",
 		"numericCode": "044",
-		"currencies": [
-			{
-				"code": "BSD",
-				"name": "Bahamian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "BSD", "name": "Bahamian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Bahamas",
@@ -1030,20 +801,9 @@
 		"borders": [],
 		"nativeName": "‏البحرين",
 		"numericCode": "048",
-		"currencies": [
-			{
-				"code": "BHD",
-				"name": "Bahraini dinar",
-				"symbol": ".د.ب"
-			}
-		],
+		"currencies": [{ "code": "BHD", "name": "Bahraini dinar", "symbol": ".د.ب" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Bahrain",
@@ -1091,20 +851,9 @@
 		"borders": ["MMR", "IND"],
 		"nativeName": "Bangladesh",
 		"numericCode": "050",
-		"currencies": [
-			{
-				"code": "BDT",
-				"name": "Bangladeshi taka",
-				"symbol": "৳"
-			}
-		],
+		"currencies": [{ "code": "BDT", "name": "Bangladeshi taka", "symbol": "৳" }],
 		"languages": [
-			{
-				"iso639_1": "bn",
-				"iso639_2": "ben",
-				"name": "Bengali",
-				"nativeName": "বাংলা"
-			}
+			{ "iso639_1": "bn", "iso639_2": "ben", "name": "Bengali", "nativeName": "বাংলা" }
 		],
 		"translations": {
 			"de": "Bangladesch",
@@ -1148,20 +897,9 @@
 		"borders": [],
 		"nativeName": "Barbados",
 		"numericCode": "052",
-		"currencies": [
-			{
-				"code": "BBD",
-				"name": "Barbadian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "BBD", "name": "Barbadian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Barbados",
@@ -1214,16 +952,8 @@
 		"nativeName": "Белару́сь",
 		"numericCode": "112",
 		"currencies": [
-			{
-				"code": "BYN",
-				"name": "New Belarusian ruble",
-				"symbol": "Br"
-			},
-			{
-				"code": "BYR",
-				"name": "Old Belarusian ruble",
-				"symbol": "Br"
-			}
+			{ "code": "BYN", "name": "New Belarusian ruble", "symbol": "Br" },
+			{ "code": "BYR", "name": "Old Belarusian ruble", "symbol": "Br" }
 		],
 		"languages": [
 			{
@@ -1232,12 +962,7 @@
 				"name": "Belarusian",
 				"nativeName": "беларуская мова"
 			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Weißrussland",
@@ -1291,32 +1016,11 @@
 		"borders": ["FRA", "DEU", "LUX", "NLD"],
 		"nativeName": "België",
 		"numericCode": "056",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" }
 		],
 		"translations": {
 			"de": "Belgien",
@@ -1332,12 +1036,7 @@
 		},
 		"flag": "https://restcountries.eu/data/bel.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "BEL"
 	},
@@ -1360,26 +1059,10 @@
 		"borders": ["GTM", "MEX"],
 		"nativeName": "Belize",
 		"numericCode": "084",
-		"currencies": [
-			{
-				"code": "BZD",
-				"name": "Belize dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "BZD", "name": "Belize dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Belize",
@@ -1429,20 +1112,9 @@
 		"borders": ["BFA", "NER", "NGA", "TGO"],
 		"nativeName": "Bénin",
 		"numericCode": "204",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Benin",
@@ -1492,20 +1164,9 @@
 		"borders": [],
 		"nativeName": "Bermuda",
 		"numericCode": "060",
-		"currencies": [
-			{
-				"code": "BMD",
-				"name": "Bermudian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "BMD", "name": "Bermudian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Bermuda",
@@ -1543,24 +1204,11 @@
 		"nativeName": "ʼbrug-yul",
 		"numericCode": "064",
 		"currencies": [
-			{
-				"code": "BTN",
-				"name": "Bhutanese ngultrum",
-				"symbol": "Nu."
-			},
-			{
-				"code": "INR",
-				"name": "Indian rupee",
-				"symbol": "₹"
-			}
+			{ "code": "BTN", "name": "Bhutanese ngultrum", "symbol": "Nu." },
+			{ "code": "INR", "name": "Indian rupee", "symbol": "₹" }
 		],
 		"languages": [
-			{
-				"iso639_1": "dz",
-				"iso639_2": "dzo",
-				"name": "Dzongkha",
-				"nativeName": "རྫོང་ཁ"
-			}
+			{ "iso639_1": "dz", "iso639_2": "dzo", "name": "Dzongkha", "nativeName": "རྫོང་ཁ" }
 		],
 		"translations": {
 			"de": "Bhutan",
@@ -1613,32 +1261,11 @@
 		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
 		"nativeName": "Bolivia",
 		"numericCode": "068",
-		"currencies": [
-			{
-				"code": "BOB",
-				"name": "Bolivian boliviano",
-				"symbol": "Bs."
-			}
-		],
+		"currencies": [{ "code": "BOB", "name": "Bolivian boliviano", "symbol": "Bs." }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			},
-			{
-				"iso639_1": "ay",
-				"iso639_2": "aym",
-				"name": "Aymara",
-				"nativeName": "aymar aru"
-			},
-			{
-				"iso639_1": "qu",
-				"iso639_2": "que",
-				"name": "Quechua",
-				"nativeName": "Runa Simi"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" },
+			{ "iso639_1": "ay", "iso639_2": "aym", "name": "Aymara", "nativeName": "aymar aru" },
+			{ "iso639_1": "qu", "iso639_2": "que", "name": "Quechua", "nativeName": "Runa Simi" }
 		],
 		"translations": {
 			"de": "Bolivien",
@@ -1687,20 +1314,9 @@
 		"borders": [],
 		"nativeName": "Bonaire",
 		"numericCode": "535",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" }
 		],
 		"translations": {
 			"de": "Bonaire, Sint Eustatius und Saba",
@@ -1738,31 +1354,12 @@
 		"nativeName": "Bosna i Hercegovina",
 		"numericCode": "070",
 		"currencies": [
-			{
-				"code": "BAM",
-				"name": "Bosnia and Herzegovina convertible mark",
-				"symbol": null
-			}
+			{ "code": "BAM", "name": "Bosnia and Herzegovina convertible mark", "symbol": null }
 		],
 		"languages": [
-			{
-				"iso639_1": "bs",
-				"iso639_2": "bos",
-				"name": "Bosnian",
-				"nativeName": "bosanski jezik"
-			},
-			{
-				"iso639_1": "hr",
-				"iso639_2": "hrv",
-				"name": "Croatian",
-				"nativeName": "hrvatski jezik"
-			},
-			{
-				"iso639_1": "sr",
-				"iso639_2": "srp",
-				"name": "Serbian",
-				"nativeName": "српски језик"
-			}
+			{ "iso639_1": "bs", "iso639_2": "bos", "name": "Bosnian", "nativeName": "bosanski jezik" },
+			{ "iso639_1": "hr", "iso639_2": "hrv", "name": "Croatian", "nativeName": "hrvatski jezik" },
+			{ "iso639_1": "sr", "iso639_2": "srp", "name": "Serbian", "nativeName": "српски језик" }
 		],
 		"translations": {
 			"de": "Bosnien und Herzegowina",
@@ -1806,26 +1403,10 @@
 		"borders": ["NAM", "ZAF", "ZMB", "ZWE"],
 		"nativeName": "Botswana",
 		"numericCode": "072",
-		"currencies": [
-			{
-				"code": "BWP",
-				"name": "Botswana pula",
-				"symbol": "P"
-			}
-		],
+		"currencies": [{ "code": "BWP", "name": "Botswana pula", "symbol": "P" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "tn",
-				"iso639_2": "tsn",
-				"name": "Tswana",
-				"nativeName": "Setswana"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "tn", "iso639_2": "tsn", "name": "Tswana", "nativeName": "Setswana" }
 		],
 		"translations": {
 			"de": "Botswana",
@@ -1875,20 +1456,9 @@
 		"borders": [],
 		"nativeName": "Bouvetøya",
 		"numericCode": "074",
-		"currencies": [
-			{
-				"code": "NOK",
-				"name": "Norwegian krone",
-				"symbol": "kr"
-			}
-		],
+		"currencies": [{ "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }],
 		"languages": [
-			{
-				"iso639_1": "no",
-				"iso639_2": "nor",
-				"name": "Norwegian",
-				"nativeName": "Norsk"
-			},
+			{ "iso639_1": "no", "iso639_2": "nor", "name": "Norwegian", "nativeName": "Norsk" },
 			{
 				"iso639_1": "nb",
 				"iso639_2": "nob",
@@ -1942,20 +1512,9 @@
 		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
 		"nativeName": "Brasil",
 		"numericCode": "076",
-		"currencies": [
-			{
-				"code": "BRL",
-				"name": "Brazilian real",
-				"symbol": "R$"
-			}
-		],
+		"currencies": [{ "code": "BRL", "name": "Brazilian real", "symbol": "R$" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Brasilien",
@@ -2004,20 +1563,9 @@
 		"borders": [],
 		"nativeName": "British Indian Ocean Territory",
 		"numericCode": "086",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Britisches Territorium im Indischen Ozean",
@@ -2068,24 +1616,11 @@
 		"nativeName": "British Virgin Islands",
 		"numericCode": "092",
 		"currencies": [
-			{
-				"code": null,
-				"name": "[D]",
-				"symbol": "$"
-			},
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
+			{ "code": null, "name": "[D]", "symbol": "$" },
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Britische Jungferninseln",
@@ -2122,20 +1657,9 @@
 		"borders": [],
 		"nativeName": "Virgin Islands of the United States",
 		"numericCode": "850",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Amerikanische Jungferninseln",
@@ -2173,24 +1697,11 @@
 		"nativeName": "Negara Brunei Darussalam",
 		"numericCode": "096",
 		"currencies": [
-			{
-				"code": "BND",
-				"name": "Brunei dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "SGD",
-				"name": "Singapore dollar",
-				"symbol": "$"
-			}
+			{ "code": "BND", "name": "Brunei dollar", "symbol": "$" },
+			{ "code": "SGD", "name": "Singapore dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "ms",
-				"iso639_2": "msa",
-				"name": "Malay",
-				"nativeName": "bahasa Melayu"
-			}
+			{ "iso639_1": "ms", "iso639_2": "msa", "name": "Malay", "nativeName": "bahasa Melayu" }
 		],
 		"translations": {
 			"de": "Brunei",
@@ -2234,20 +1745,9 @@
 		"borders": ["GRC", "MKD", "ROU", "SRB", "TUR"],
 		"nativeName": "България",
 		"numericCode": "100",
-		"currencies": [
-			{
-				"code": "BGN",
-				"name": "Bulgarian lev",
-				"symbol": "лв"
-			}
-		],
+		"currencies": [{ "code": "BGN", "name": "Bulgarian lev", "symbol": "лв" }],
 		"languages": [
-			{
-				"iso639_1": "bg",
-				"iso639_2": "bul",
-				"name": "Bulgarian",
-				"nativeName": "български език"
-			}
+			{ "iso639_1": "bg", "iso639_2": "bul", "name": "Bulgarian", "nativeName": "български език" }
 		],
 		"translations": {
 			"de": "Bulgarien",
@@ -2263,12 +1763,7 @@
 		},
 		"flag": "https://restcountries.eu/data/bgr.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "BUL"
 	},
@@ -2291,26 +1786,10 @@
 		"borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"],
 		"nativeName": "Burkina Faso",
 		"numericCode": "854",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ff",
-				"iso639_2": "ful",
-				"name": "Fula",
-				"nativeName": "Fulfulde"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ff", "iso639_2": "ful", "name": "Fula", "nativeName": "Fulfulde" }
 		],
 		"translations": {
 			"de": "Burkina Faso",
@@ -2360,26 +1839,10 @@
 		"borders": ["COD", "RWA", "TZA"],
 		"nativeName": "Burundi",
 		"numericCode": "108",
-		"currencies": [
-			{
-				"code": "BIF",
-				"name": "Burundian franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "BIF", "name": "Burundian franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "rn",
-				"iso639_2": "run",
-				"name": "Kirundi",
-				"nativeName": "Ikirundi"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "rn", "iso639_2": "run", "name": "Kirundi", "nativeName": "Ikirundi" }
 		],
 		"translations": {
 			"de": "Burundi",
@@ -2430,25 +1893,10 @@
 		"nativeName": "Kâmpŭchéa",
 		"numericCode": "116",
 		"currencies": [
-			{
-				"code": "KHR",
-				"name": "Cambodian riel",
-				"symbol": "៛"
-			},
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
+			{ "code": "KHR", "name": "Cambodian riel", "symbol": "៛" },
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" }
 		],
-		"languages": [
-			{
-				"iso639_1": "km",
-				"iso639_2": "khm",
-				"name": "Khmer",
-				"nativeName": "ខ្មែរ"
-			}
-		],
+		"languages": [{ "iso639_1": "km", "iso639_2": "khm", "name": "Khmer", "nativeName": "ខ្មែរ" }],
 		"translations": {
 			"de": "Kambodscha",
 			"es": "Camboya",
@@ -2491,26 +1939,10 @@
 		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
 		"nativeName": "Cameroon",
 		"numericCode": "120",
-		"currencies": [
-			{
-				"code": "XAF",
-				"name": "Central African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Kamerun",
@@ -2560,26 +1992,10 @@
 		"borders": ["USA"],
 		"nativeName": "Canada",
 		"numericCode": "124",
-		"currencies": [
-			{
-				"code": "CAD",
-				"name": "Canadian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "CAD", "name": "Canadian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Kanada",
@@ -2626,20 +2042,9 @@
 		"borders": [],
 		"nativeName": "Cabo Verde",
 		"numericCode": "132",
-		"currencies": [
-			{
-				"code": "CVE",
-				"name": "Cape Verdean escudo",
-				"symbol": "Esc"
-			}
-		],
+		"currencies": [{ "code": "CVE", "name": "Cape Verdean escudo", "symbol": "Esc" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Kap Verde",
@@ -2689,20 +2094,9 @@
 		"borders": [],
 		"nativeName": "Cayman Islands",
 		"numericCode": "136",
-		"currencies": [
-			{
-				"code": "KYD",
-				"name": "Cayman Islands dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "KYD", "name": "Cayman Islands dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Kaimaninseln",
@@ -2739,26 +2133,10 @@
 		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
 		"nativeName": "Ködörösêse tî Bêafrîka",
 		"numericCode": "140",
-		"currencies": [
-			{
-				"code": "XAF",
-				"name": "Central African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "sg",
-				"iso639_2": "sag",
-				"name": "Sango",
-				"nativeName": "yângâ tî sängö"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "sg", "iso639_2": "sag", "name": "Sango", "nativeName": "yângâ tî sängö" }
 		],
 		"translations": {
 			"de": "Zentralafrikanische Republik",
@@ -2808,26 +2186,10 @@
 		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
 		"nativeName": "Tchad",
 		"numericCode": "148",
-		"currencies": [
-			{
-				"code": "XAF",
-				"name": "Central African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Tschad",
@@ -2877,20 +2239,9 @@
 		"borders": ["ARG", "BOL", "PER"],
 		"nativeName": "Chile",
 		"numericCode": "152",
-		"currencies": [
-			{
-				"code": "CLP",
-				"name": "Chilean peso",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "CLP", "name": "Chilean peso", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Chile",
@@ -2969,20 +2320,9 @@
 		],
 		"nativeName": "中国",
 		"numericCode": "156",
-		"currencies": [
-			{
-				"code": "CNY",
-				"name": "Chinese yuan",
-				"symbol": "¥"
-			}
-		],
+		"currencies": [{ "code": "CNY", "name": "Chinese yuan", "symbol": "¥" }],
 		"languages": [
-			{
-				"iso639_1": "zh",
-				"iso639_2": "zho",
-				"name": "Chinese",
-				"nativeName": "中文 (Zhōngwén)"
-			}
+			{ "iso639_1": "zh", "iso639_2": "zho", "name": "Chinese", "nativeName": "中文 (Zhōngwén)" }
 		],
 		"translations": {
 			"de": "China",
@@ -3019,20 +2359,9 @@
 		"borders": [],
 		"nativeName": "Christmas Island",
 		"numericCode": "162",
-		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "AUD", "name": "Australian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Weihnachtsinsel",
@@ -3069,20 +2398,9 @@
 		"borders": [],
 		"nativeName": "Cocos (Keeling) Islands",
 		"numericCode": "166",
-		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "AUD", "name": "Australian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Kokosinseln",
@@ -3119,20 +2437,9 @@
 		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
 		"nativeName": "Colombia",
 		"numericCode": "170",
-		"currencies": [
-			{
-				"code": "COP",
-				"name": "Colombian peso",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "COP", "name": "Colombian peso", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Kolumbien",
@@ -3193,26 +2500,10 @@
 		"borders": [],
 		"nativeName": "Komori",
 		"numericCode": "174",
-		"currencies": [
-			{
-				"code": "KMF",
-				"name": "Comorian franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "KMF", "name": "Comorian franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Union der Komoren",
@@ -3272,26 +2563,10 @@
 		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
 		"nativeName": "République du Congo",
 		"numericCode": "178",
-		"currencies": [
-			{
-				"code": "XAF",
-				"name": "Central African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ln",
-				"iso639_2": "lin",
-				"name": "Lingala",
-				"nativeName": "Lingála"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ln", "iso639_2": "lin", "name": "Lingala", "nativeName": "Lingála" }
 		],
 		"translations": {
 			"de": "Kongo",
@@ -3341,44 +2616,13 @@
 		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
 		"nativeName": "République démocratique du Congo",
 		"numericCode": "180",
-		"currencies": [
-			{
-				"code": "CDF",
-				"name": "Congolese franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "CDF", "name": "Congolese franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ln",
-				"iso639_2": "lin",
-				"name": "Lingala",
-				"nativeName": "Lingála"
-			},
-			{
-				"iso639_1": "kg",
-				"iso639_2": "kon",
-				"name": "Kongo",
-				"nativeName": "Kikongo"
-			},
-			{
-				"iso639_1": "sw",
-				"iso639_2": "swa",
-				"name": "Swahili",
-				"nativeName": "Kiswahili"
-			},
-			{
-				"iso639_1": "lu",
-				"iso639_2": "lub",
-				"name": "Luba-Katanga",
-				"nativeName": "Tshiluba"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ln", "iso639_2": "lin", "name": "Lingala", "nativeName": "Lingála" },
+			{ "iso639_1": "kg", "iso639_2": "kon", "name": "Kongo", "nativeName": "Kikongo" },
+			{ "iso639_1": "sw", "iso639_2": "swa", "name": "Swahili", "nativeName": "Kiswahili" },
+			{ "iso639_1": "lu", "iso639_2": "lub", "name": "Luba-Katanga", "nativeName": "Tshiluba" }
 		],
 		"translations": {
 			"de": "Kongo (Dem. Rep.)",
@@ -3429,24 +2673,11 @@
 		"nativeName": "Cook Islands",
 		"numericCode": "184",
 		"currencies": [
-			{
-				"code": "NZD",
-				"name": "New Zealand dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "CKD",
-				"name": "Cook Islands dollar",
-				"symbol": "$"
-			}
+			{ "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+			{ "code": "CKD", "name": "Cook Islands dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Cookinseln",
@@ -3483,20 +2714,9 @@
 		"borders": ["NIC", "PAN"],
 		"nativeName": "Costa Rica",
 		"numericCode": "188",
-		"currencies": [
-			{
-				"code": "CRC",
-				"name": "Costa Rican colón",
-				"symbol": "₡"
-			}
-		],
+		"currencies": [{ "code": "CRC", "name": "Costa Rican colón", "symbol": "₡" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Costa Rica",
@@ -3540,20 +2760,9 @@
 		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
 		"nativeName": "Hrvatska",
 		"numericCode": "191",
-		"currencies": [
-			{
-				"code": "HRK",
-				"name": "Croatian kuna",
-				"symbol": "kn"
-			}
-		],
+		"currencies": [{ "code": "HRK", "name": "Croatian kuna", "symbol": "kn" }],
 		"languages": [
-			{
-				"iso639_1": "hr",
-				"iso639_2": "hrv",
-				"name": "Croatian",
-				"nativeName": "hrvatski jezik"
-			}
+			{ "iso639_1": "hr", "iso639_2": "hrv", "name": "Croatian", "nativeName": "hrvatski jezik" }
 		],
 		"translations": {
 			"de": "Kroatien",
@@ -3569,12 +2778,7 @@
 		},
 		"flag": "https://restcountries.eu/data/hrv.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "CRO"
 	},
@@ -3598,24 +2802,11 @@
 		"nativeName": "Cuba",
 		"numericCode": "192",
 		"currencies": [
-			{
-				"code": "CUC",
-				"name": "Cuban convertible peso",
-				"symbol": "$"
-			},
-			{
-				"code": "CUP",
-				"name": "Cuban peso",
-				"symbol": "$"
-			}
+			{ "code": "CUC", "name": "Cuban convertible peso", "symbol": "$" },
+			{ "code": "CUP", "name": "Cuban peso", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Kuba",
@@ -3659,32 +2850,11 @@
 		"borders": [],
 		"nativeName": "Curaçao",
 		"numericCode": "531",
-		"currencies": [
-			{
-				"code": "ANG",
-				"name": "Netherlands Antillean guilder",
-				"symbol": "ƒ"
-			}
-		],
+		"currencies": [{ "code": "ANG", "name": "Netherlands Antillean guilder", "symbol": "ƒ" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			},
-			{
-				"iso639_1": "pa",
-				"iso639_2": "pan",
-				"name": "(Eastern) Punjabi",
-				"nativeName": "ਪੰਜਾਬੀ"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" },
+			{ "iso639_1": "pa", "iso639_2": "pan", "name": "(Eastern) Punjabi", "nativeName": "ਪੰਜਾਬੀ" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Curaçao",
@@ -3728,32 +2898,11 @@
 		"borders": ["GBR"],
 		"nativeName": "Κύπρος",
 		"numericCode": "196",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "el",
-				"iso639_2": "ell",
-				"name": "Greek (modern)",
-				"nativeName": "ελληνικά"
-			},
-			{
-				"iso639_1": "tr",
-				"iso639_2": "tur",
-				"name": "Turkish",
-				"nativeName": "Türkçe"
-			},
-			{
-				"iso639_1": "hy",
-				"iso639_2": "hye",
-				"name": "Armenian",
-				"nativeName": "Հայերեն"
-			}
+			{ "iso639_1": "el", "iso639_2": "ell", "name": "Greek (modern)", "nativeName": "ελληνικά" },
+			{ "iso639_1": "tr", "iso639_2": "tur", "name": "Turkish", "nativeName": "Türkçe" },
+			{ "iso639_1": "hy", "iso639_2": "hye", "name": "Armenian", "nativeName": "Հայերեն" }
 		],
 		"translations": {
 			"de": "Zypern",
@@ -3769,12 +2918,7 @@
 		},
 		"flag": "https://restcountries.eu/data/cyp.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "CYP"
 	},
@@ -3797,26 +2941,10 @@
 		"borders": ["AUT", "DEU", "POL", "SVK"],
 		"nativeName": "Česká republika",
 		"numericCode": "203",
-		"currencies": [
-			{
-				"code": "CZK",
-				"name": "Czech koruna",
-				"symbol": "Kč"
-			}
-		],
+		"currencies": [{ "code": "CZK", "name": "Czech koruna", "symbol": "Kč" }],
 		"languages": [
-			{
-				"iso639_1": "cs",
-				"iso639_2": "ces",
-				"name": "Czech",
-				"nativeName": "čeština"
-			},
-			{
-				"iso639_1": "sk",
-				"iso639_2": "slk",
-				"name": "Slovak",
-				"nativeName": "slovenčina"
-			}
+			{ "iso639_1": "cs", "iso639_2": "ces", "name": "Czech", "nativeName": "čeština" },
+			{ "iso639_1": "sk", "iso639_2": "slk", "name": "Slovak", "nativeName": "slovenčina" }
 		],
 		"translations": {
 			"de": "Tschechische Republik",
@@ -3832,12 +2960,7 @@
 		},
 		"flag": "https://restcountries.eu/data/cze.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "CZE"
 	},
@@ -3860,21 +2983,8 @@
 		"borders": ["DEU"],
 		"nativeName": "Danmark",
 		"numericCode": "208",
-		"currencies": [
-			{
-				"code": "DKK",
-				"name": "Danish krone",
-				"symbol": "kr"
-			}
-		],
-		"languages": [
-			{
-				"iso639_1": "da",
-				"iso639_2": "dan",
-				"name": "Danish",
-				"nativeName": "dansk"
-			}
-		],
+		"currencies": [{ "code": "DKK", "name": "Danish krone", "symbol": "kr" }],
+		"languages": [{ "iso639_1": "da", "iso639_2": "dan", "name": "Danish", "nativeName": "dansk" }],
 		"translations": {
 			"de": "Dänemark",
 			"es": "Dinamarca",
@@ -3889,12 +2999,7 @@
 		},
 		"flag": "https://restcountries.eu/data/dnk.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "DEN"
 	},
@@ -3925,26 +3030,10 @@
 		"borders": ["ERI", "ETH", "SOM"],
 		"nativeName": "Djibouti",
 		"numericCode": "262",
-		"currencies": [
-			{
-				"code": "DJF",
-				"name": "Djiboutian franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "DJF", "name": "Djiboutian franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Dschibuti",
@@ -4004,20 +3093,9 @@
 		"borders": [],
 		"nativeName": "Dominica",
 		"numericCode": "212",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Dominica",
@@ -4054,20 +3132,9 @@
 		"borders": ["HTI"],
 		"nativeName": "República Dominicana",
 		"numericCode": "214",
-		"currencies": [
-			{
-				"code": "DOP",
-				"name": "Dominican peso",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "DOP", "name": "Dominican peso", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Dominikanische Republik",
@@ -4117,20 +3184,9 @@
 		"borders": ["COL", "PER"],
 		"nativeName": "Ecuador",
 		"numericCode": "218",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Ecuador",
@@ -4179,20 +3235,9 @@
 		"borders": ["ISR", "LBY", "SDN"],
 		"nativeName": "مصر‎",
 		"numericCode": "818",
-		"currencies": [
-			{
-				"code": "EGP",
-				"name": "Egyptian pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "EGP", "name": "Egyptian pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Ägypten",
@@ -4252,20 +3297,9 @@
 		"borders": ["GTM", "HND"],
 		"nativeName": "El Salvador",
 		"numericCode": "222",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "El Salvador",
@@ -4315,26 +3349,10 @@
 		"borders": ["CMR", "GAB"],
 		"nativeName": "Guinea Ecuatorial",
 		"numericCode": "226",
-		"currencies": [
-			{
-				"code": "XAF",
-				"name": "Central African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Äquatorial-Guinea",
@@ -4392,32 +3410,11 @@
 		"borders": ["DJI", "ETH", "SDN"],
 		"nativeName": "ኤርትራ",
 		"numericCode": "232",
-		"currencies": [
-			{
-				"code": "ERN",
-				"name": "Eritrean nakfa",
-				"symbol": "Nfk"
-			}
-		],
+		"currencies": [{ "code": "ERN", "name": "Eritrean nakfa", "symbol": "Nfk" }],
 		"languages": [
-			{
-				"iso639_1": "ti",
-				"iso639_2": "tir",
-				"name": "Tigrinya",
-				"nativeName": "ትግርኛ"
-			},
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "ti", "iso639_2": "tir", "name": "Tigrinya", "nativeName": "ትግርኛ" },
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Eritrea",
@@ -4467,20 +3464,9 @@
 		"borders": ["LVA", "RUS"],
 		"nativeName": "Eesti",
 		"numericCode": "233",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "et",
-				"iso639_2": "est",
-				"name": "Estonian",
-				"nativeName": "eesti"
-			}
+			{ "iso639_1": "et", "iso639_2": "est", "name": "Estonian", "nativeName": "eesti" }
 		],
 		"translations": {
 			"de": "Estland",
@@ -4496,12 +3482,7 @@
 		},
 		"flag": "https://restcountries.eu/data/est.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "EST"
 	},
@@ -4529,21 +3510,8 @@
 		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
 		"nativeName": "ኢትዮጵያ",
 		"numericCode": "231",
-		"currencies": [
-			{
-				"code": "ETB",
-				"name": "Ethiopian birr",
-				"symbol": "Br"
-			}
-		],
-		"languages": [
-			{
-				"iso639_1": "am",
-				"iso639_2": "amh",
-				"name": "Amharic",
-				"nativeName": "አማርኛ"
-			}
-		],
+		"currencies": [{ "code": "ETB", "name": "Ethiopian birr", "symbol": "Br" }],
+		"languages": [{ "iso639_1": "am", "iso639_2": "amh", "name": "Amharic", "nativeName": "አማርኛ" }],
 		"translations": {
 			"de": "Äthiopien",
 			"es": "Etiopía",
@@ -4592,20 +3560,9 @@
 		"borders": [],
 		"nativeName": "Falkland Islands",
 		"numericCode": "238",
-		"currencies": [
-			{
-				"code": "FKP",
-				"name": "Falkland Islands pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "FKP", "name": "Falkland Islands pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Falklandinseln",
@@ -4655,24 +3612,11 @@
 		"nativeName": "Føroyar",
 		"numericCode": "234",
 		"currencies": [
-			{
-				"code": "DKK",
-				"name": "Danish krone",
-				"symbol": "kr"
-			},
-			{
-				"code": "(none)",
-				"name": "Faroese króna",
-				"symbol": "kr"
-			}
+			{ "code": "DKK", "name": "Danish krone", "symbol": "kr" },
+			{ "code": "(none)", "name": "Faroese króna", "symbol": "kr" }
 		],
 		"languages": [
-			{
-				"iso639_1": "fo",
-				"iso639_2": "fao",
-				"name": "Faroese",
-				"nativeName": "føroyskt"
-			}
+			{ "iso639_1": "fo", "iso639_2": "fao", "name": "Faroese", "nativeName": "føroyskt" }
 		],
 		"translations": {
 			"de": "Färöer-Inseln",
@@ -4688,12 +3632,7 @@
 		},
 		"flag": "https://restcountries.eu/data/fro.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": ""
 	},
@@ -4716,38 +3655,12 @@
 		"borders": [],
 		"nativeName": "Fiji",
 		"numericCode": "242",
-		"currencies": [
-			{
-				"code": "FJD",
-				"name": "Fijian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "FJD", "name": "Fijian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fj",
-				"iso639_2": "fij",
-				"name": "Fijian",
-				"nativeName": "vosa Vakaviti"
-			},
-			{
-				"iso639_1": "hi",
-				"iso639_2": "hin",
-				"name": "Hindi",
-				"nativeName": "हिन्दी"
-			},
-			{
-				"iso639_1": "ur",
-				"iso639_2": "urd",
-				"name": "Urdu",
-				"nativeName": "اردو"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fj", "iso639_2": "fij", "name": "Fijian", "nativeName": "vosa Vakaviti" },
+			{ "iso639_1": "hi", "iso639_2": "hin", "name": "Hindi", "nativeName": "हिन्दी" },
+			{ "iso639_1": "ur", "iso639_2": "urd", "name": "Urdu", "nativeName": "اردو" }
 		],
 		"translations": {
 			"de": "Fidschi",
@@ -4790,26 +3703,10 @@
 		"borders": ["NOR", "SWE", "RUS"],
 		"nativeName": "Suomi",
 		"numericCode": "246",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fi",
-				"iso639_2": "fin",
-				"name": "Finnish",
-				"nativeName": "suomi"
-			},
-			{
-				"iso639_1": "sv",
-				"iso639_2": "swe",
-				"name": "Swedish",
-				"nativeName": "svenska"
-			}
+			{ "iso639_1": "fi", "iso639_2": "fin", "name": "Finnish", "nativeName": "suomi" },
+			{ "iso639_1": "sv", "iso639_2": "swe", "name": "Swedish", "nativeName": "svenska" }
 		],
 		"translations": {
 			"de": "Finnland",
@@ -4825,12 +3722,7 @@
 		},
 		"flag": "https://restcountries.eu/data/fin.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "FIN"
 	},
@@ -4866,20 +3758,9 @@
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
 		"nativeName": "France",
 		"numericCode": "250",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Frankreich",
@@ -4895,12 +3776,7 @@
 		},
 		"flag": "https://restcountries.eu/data/fra.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "FRA"
 	},
@@ -4923,20 +3799,9 @@
 		"borders": ["BRA", "SUR"],
 		"nativeName": "Guyane française",
 		"numericCode": "254",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Französisch Guyana",
@@ -4963,12 +3828,7 @@
 					"South American Union"
 				]
 			},
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": ""
 	},
@@ -4991,20 +3851,9 @@
 		"borders": [],
 		"nativeName": "Polynésie française",
 		"numericCode": "258",
-		"currencies": [
-			{
-				"code": "XPF",
-				"name": "CFP franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XPF", "name": "CFP franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Französisch-Polynesien",
@@ -5041,20 +3890,9 @@
 		"borders": [],
 		"nativeName": "Territoire des Terres australes et antarctiques françaises",
 		"numericCode": "260",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Französische Süd- und Antarktisgebiete",
@@ -5104,20 +3942,9 @@
 		"borders": ["CMR", "COG", "GNQ"],
 		"nativeName": "Gabon",
 		"numericCode": "266",
-		"currencies": [
-			{
-				"code": "XAF",
-				"name": "Central African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Gabun",
@@ -5167,20 +3994,9 @@
 		"borders": ["SEN"],
 		"nativeName": "Gambia",
 		"numericCode": "270",
-		"currencies": [
-			{
-				"code": "GMD",
-				"name": "Gambian dalasi",
-				"symbol": "D"
-			}
-		],
+		"currencies": [{ "code": "GMD", "name": "Gambian dalasi", "symbol": "D" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Gambia",
@@ -5230,20 +4046,9 @@
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
 		"nativeName": "საქართველო",
 		"numericCode": "268",
-		"currencies": [
-			{
-				"code": "GEL",
-				"name": "Georgian Lari",
-				"symbol": "ლ"
-			}
-		],
+		"currencies": [{ "code": "GEL", "name": "Georgian Lari", "symbol": "ლ" }],
 		"languages": [
-			{
-				"iso639_1": "ka",
-				"iso639_2": "kat",
-				"name": "Georgian",
-				"nativeName": "ქართული"
-			}
+			{ "iso639_1": "ka", "iso639_2": "kat", "name": "Georgian", "nativeName": "ქართული" }
 		],
 		"translations": {
 			"de": "Georgien",
@@ -5280,20 +4085,9 @@
 		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
 		"nativeName": "Deutschland",
 		"numericCode": "276",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			}
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" }
 		],
 		"translations": {
 			"de": "Deutschland",
@@ -5309,12 +4103,7 @@
 		},
 		"flag": "https://restcountries.eu/data/deu.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "GER"
 	},
@@ -5337,20 +4126,9 @@
 		"borders": ["BFA", "CIV", "TGO"],
 		"nativeName": "Ghana",
 		"numericCode": "288",
-		"currencies": [
-			{
-				"code": "GHS",
-				"name": "Ghanaian cedi",
-				"symbol": "₵"
-			}
-		],
+		"currencies": [{ "code": "GHS", "name": "Ghanaian cedi", "symbol": "₵" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Ghana",
@@ -5400,20 +4178,9 @@
 		"borders": ["ESP"],
 		"nativeName": "Gibraltar",
 		"numericCode": "292",
-		"currencies": [
-			{
-				"code": "GIP",
-				"name": "Gibraltar pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "GIP", "name": "Gibraltar pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Gibraltar",
@@ -5429,12 +4196,7 @@
 		},
 		"flag": "https://restcountries.eu/data/gib.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": ""
 	},
@@ -5457,20 +4219,9 @@
 		"borders": ["ALB", "BGR", "TUR", "MKD"],
 		"nativeName": "Ελλάδα",
 		"numericCode": "300",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "el",
-				"iso639_2": "ell",
-				"name": "Greek (modern)",
-				"nativeName": "ελληνικά"
-			}
+			{ "iso639_1": "el", "iso639_2": "ell", "name": "Greek (modern)", "nativeName": "ελληνικά" }
 		],
 		"translations": {
 			"de": "Griechenland",
@@ -5486,12 +4237,7 @@
 		},
 		"flag": "https://restcountries.eu/data/grc.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "GRE"
 	},
@@ -5514,20 +4260,9 @@
 		"borders": [],
 		"nativeName": "Kalaallit Nunaat",
 		"numericCode": "304",
-		"currencies": [
-			{
-				"code": "DKK",
-				"name": "Danish krone",
-				"symbol": "kr"
-			}
-		],
+		"currencies": [{ "code": "DKK", "name": "Danish krone", "symbol": "kr" }],
 		"languages": [
-			{
-				"iso639_1": "kl",
-				"iso639_2": "kal",
-				"name": "Kalaallisut",
-				"nativeName": "kalaallisut"
-			}
+			{ "iso639_1": "kl", "iso639_2": "kal", "name": "Kalaallisut", "nativeName": "kalaallisut" }
 		],
 		"translations": {
 			"de": "Grönland",
@@ -5564,20 +4299,9 @@
 		"borders": [],
 		"nativeName": "Grenada",
 		"numericCode": "308",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Grenada",
@@ -5621,20 +4345,9 @@
 		"borders": [],
 		"nativeName": "Guadeloupe",
 		"numericCode": "312",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Guadeloupe",
@@ -5671,32 +4384,11 @@
 		"borders": [],
 		"nativeName": "Guam",
 		"numericCode": "316",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ch",
-				"iso639_2": "cha",
-				"name": "Chamorro",
-				"nativeName": "Chamoru"
-			},
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ch", "iso639_2": "cha", "name": "Chamorro", "nativeName": "Chamoru" },
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Guam",
@@ -5733,20 +4425,9 @@
 		"borders": ["BLZ", "SLV", "HND", "MEX"],
 		"nativeName": "Guatemala",
 		"numericCode": "320",
-		"currencies": [
-			{
-				"code": "GTQ",
-				"name": "Guatemalan quetzal",
-				"symbol": "Q"
-			}
-		],
+		"currencies": [{ "code": "GTQ", "name": "Guatemalan quetzal", "symbol": "Q" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Guatemala",
@@ -5791,30 +4472,12 @@
 		"nativeName": "Guernsey",
 		"numericCode": "831",
 		"currencies": [
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			},
-			{
-				"code": "(none)",
-				"name": "Guernsey pound",
-				"symbol": "£"
-			}
+			{ "code": "GBP", "name": "British pound", "symbol": "£" },
+			{ "code": "(none)", "name": "Guernsey pound", "symbol": "£" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Guernsey",
@@ -5851,26 +4514,10 @@
 		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
 		"nativeName": "Guinée",
 		"numericCode": "324",
-		"currencies": [
-			{
-				"code": "GNF",
-				"name": "Guinean franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "GNF", "name": "Guinean franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ff",
-				"iso639_2": "ful",
-				"name": "Fula",
-				"nativeName": "Fulfulde"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ff", "iso639_2": "ful", "name": "Fula", "nativeName": "Fulfulde" }
 		],
 		"translations": {
 			"de": "Guinea",
@@ -5920,20 +4567,9 @@
 		"borders": ["GIN", "SEN"],
 		"nativeName": "Guiné-Bissau",
 		"numericCode": "624",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Guinea-Bissau",
@@ -5983,20 +4619,9 @@
 		"borders": ["BRA", "SUR", "VEN"],
 		"nativeName": "Guyana",
 		"numericCode": "328",
-		"currencies": [
-			{
-				"code": "GYD",
-				"name": "Guyanese dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "GYD", "name": "Guyanese dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Guyana",
@@ -6051,26 +4676,10 @@
 		"borders": ["DOM"],
 		"nativeName": "Haïti",
 		"numericCode": "332",
-		"currencies": [
-			{
-				"code": "HTG",
-				"name": "Haitian gourde",
-				"symbol": "G"
-			}
-		],
+		"currencies": [{ "code": "HTG", "name": "Haitian gourde", "symbol": "G" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "ht",
-				"iso639_2": "hat",
-				"name": "Haitian",
-				"nativeName": "Kreyòl ayisyen"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "ht", "iso639_2": "hat", "name": "Haitian", "nativeName": "Kreyòl ayisyen" }
 		],
 		"translations": {
 			"de": "Haiti",
@@ -6114,20 +4723,9 @@
 		"borders": [],
 		"nativeName": "Heard Island and McDonald Islands",
 		"numericCode": "334",
-		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "AUD", "name": "Australian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Heard und die McDonaldinseln",
@@ -6164,38 +4762,12 @@
 		"borders": ["ITA"],
 		"nativeName": "Sancta Sedes",
 		"numericCode": "336",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "la",
-				"iso639_2": "lat",
-				"name": "Latin",
-				"nativeName": "latine"
-			},
-			{
-				"iso639_1": "it",
-				"iso639_2": "ita",
-				"name": "Italian",
-				"nativeName": "Italiano"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			}
+			{ "iso639_1": "la", "iso639_2": "lat", "name": "Latin", "nativeName": "latine" },
+			{ "iso639_1": "it", "iso639_2": "ita", "name": "Italian", "nativeName": "Italiano" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" }
 		],
 		"translations": {
 			"de": "Heiliger Stuhl",
@@ -6232,20 +4804,9 @@
 		"borders": ["GTM", "SLV", "NIC"],
 		"nativeName": "Honduras",
 		"numericCode": "340",
-		"currencies": [
-			{
-				"code": "HNL",
-				"name": "Honduran lempira",
-				"symbol": "L"
-			}
-		],
+		"currencies": [{ "code": "HNL", "name": "Honduran lempira", "symbol": "L" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Honduras",
@@ -6289,26 +4850,10 @@
 		"borders": ["CHN"],
 		"nativeName": "香港",
 		"numericCode": "344",
-		"currencies": [
-			{
-				"code": "HKD",
-				"name": "Hong Kong dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "HKD", "name": "Hong Kong dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "zh",
-				"iso639_2": "zho",
-				"name": "Chinese",
-				"nativeName": "中文 (Zhōngwén)"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "zh", "iso639_2": "zho", "name": "Chinese", "nativeName": "中文 (Zhōngwén)" }
 		],
 		"translations": {
 			"de": "Hong Kong",
@@ -6345,20 +4890,9 @@
 		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
 		"nativeName": "Magyarország",
 		"numericCode": "348",
-		"currencies": [
-			{
-				"code": "HUF",
-				"name": "Hungarian forint",
-				"symbol": "Ft"
-			}
-		],
+		"currencies": [{ "code": "HUF", "name": "Hungarian forint", "symbol": "Ft" }],
 		"languages": [
-			{
-				"iso639_1": "hu",
-				"iso639_2": "hun",
-				"name": "Hungarian",
-				"nativeName": "magyar"
-			}
+			{ "iso639_1": "hu", "iso639_2": "hun", "name": "Hungarian", "nativeName": "magyar" }
 		],
 		"translations": {
 			"de": "Ungarn",
@@ -6374,12 +4908,7 @@
 		},
 		"flag": "https://restcountries.eu/data/hun.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "HUN"
 	},
@@ -6402,20 +4931,9 @@
 		"borders": [],
 		"nativeName": "Ísland",
 		"numericCode": "352",
-		"currencies": [
-			{
-				"code": "ISK",
-				"name": "Icelandic króna",
-				"symbol": "kr"
-			}
-		],
+		"currencies": [{ "code": "ISK", "name": "Icelandic króna", "symbol": "kr" }],
 		"languages": [
-			{
-				"iso639_1": "is",
-				"iso639_2": "isl",
-				"name": "Icelandic",
-				"nativeName": "Íslenska"
-			}
+			{ "iso639_1": "is", "iso639_2": "isl", "name": "Icelandic", "nativeName": "Íslenska" }
 		],
 		"translations": {
 			"de": "Island",
@@ -6459,26 +4977,10 @@
 		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
 		"nativeName": "भारत",
 		"numericCode": "356",
-		"currencies": [
-			{
-				"code": "INR",
-				"name": "Indian rupee",
-				"symbol": "₹"
-			}
-		],
+		"currencies": [{ "code": "INR", "name": "Indian rupee", "symbol": "₹" }],
 		"languages": [
-			{
-				"iso639_1": "hi",
-				"iso639_2": "hin",
-				"name": "Hindi",
-				"nativeName": "हिन्दी"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "hi", "iso639_2": "hin", "name": "Hindi", "nativeName": "हिन्दी" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Indien",
@@ -6522,13 +5024,7 @@
 		"borders": ["TLS", "MYS", "PNG"],
 		"nativeName": "Indonesia",
 		"numericCode": "360",
-		"currencies": [
-			{
-				"code": "IDR",
-				"name": "Indonesian rupiah",
-				"symbol": "Rp"
-			}
-		],
+		"currencies": [{ "code": "IDR", "name": "Indonesian rupiah", "symbol": "Rp" }],
 		"languages": [
 			{
 				"iso639_1": "id",
@@ -6584,20 +5080,9 @@
 		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
 		"nativeName": "Côte d'Ivoire",
 		"numericCode": "384",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Elfenbeinküste",
@@ -6647,20 +5132,9 @@
 		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
 		"nativeName": "ایران",
 		"numericCode": "364",
-		"currencies": [
-			{
-				"code": "IRR",
-				"name": "Iranian rial",
-				"symbol": "﷼"
-			}
-		],
+		"currencies": [{ "code": "IRR", "name": "Iranian rial", "symbol": "﷼" }],
 		"languages": [
-			{
-				"iso639_1": "fa",
-				"iso639_2": "fas",
-				"name": "Persian (Farsi)",
-				"nativeName": "فارسی"
-			}
+			{ "iso639_1": "fa", "iso639_2": "fas", "name": "Persian (Farsi)", "nativeName": "فارسی" }
 		],
 		"translations": {
 			"de": "Iran",
@@ -6697,26 +5171,10 @@
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
 		"nativeName": "العراق",
 		"numericCode": "368",
-		"currencies": [
-			{
-				"code": "IQD",
-				"name": "Iraqi dinar",
-				"symbol": "ع.د"
-			}
-		],
+		"currencies": [{ "code": "IQD", "name": "Iraqi dinar", "symbol": "ع.د" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			},
-			{
-				"iso639_1": "ku",
-				"iso639_2": "kur",
-				"name": "Kurdish",
-				"nativeName": "Kurdî"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" },
+			{ "iso639_1": "ku", "iso639_2": "kur", "name": "Kurdish", "nativeName": "Kurdî" }
 		],
 		"translations": {
 			"de": "Irak",
@@ -6764,26 +5222,10 @@
 		"borders": ["GBR"],
 		"nativeName": "Éire",
 		"numericCode": "372",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "ga",
-				"iso639_2": "gle",
-				"name": "Irish",
-				"nativeName": "Gaeilge"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "ga", "iso639_2": "gle", "name": "Irish", "nativeName": "Gaeilge" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Irland",
@@ -6799,12 +5241,7 @@
 		},
 		"flag": "https://restcountries.eu/data/irl.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "IRL"
 	},
@@ -6828,30 +5265,12 @@
 		"nativeName": "Isle of Man",
 		"numericCode": "833",
 		"currencies": [
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			},
-			{
-				"code": "IMP[G]",
-				"name": "Manx pound",
-				"symbol": "£"
-			}
+			{ "code": "GBP", "name": "British pound", "symbol": "£" },
+			{ "code": "IMP[G]", "name": "Manx pound", "symbol": "£" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "gv",
-				"iso639_2": "glv",
-				"name": "Manx",
-				"nativeName": "Gaelg"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "gv", "iso639_2": "glv", "name": "Manx", "nativeName": "Gaelg" }
 		],
 		"translations": {
 			"de": "Insel Man",
@@ -6867,12 +5286,7 @@
 		},
 		"flag": "https://restcountries.eu/data/imn.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": ""
 	},
@@ -6895,26 +5309,10 @@
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
 		"nativeName": "יִשְׂרָאֵל",
 		"numericCode": "376",
-		"currencies": [
-			{
-				"code": "ILS",
-				"name": "Israeli new shekel",
-				"symbol": "₪"
-			}
-		],
+		"currencies": [{ "code": "ILS", "name": "Israeli new shekel", "symbol": "₪" }],
 		"languages": [
-			{
-				"iso639_1": "he",
-				"iso639_2": "heb",
-				"name": "Hebrew (modern)",
-				"nativeName": "עברית"
-			},
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "he", "iso639_2": "heb", "name": "Hebrew (modern)", "nativeName": "עברית" },
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Israel",
@@ -6951,20 +5349,9 @@
 		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
 		"nativeName": "Italia",
 		"numericCode": "380",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "it",
-				"iso639_2": "ita",
-				"name": "Italian",
-				"nativeName": "Italiano"
-			}
+			{ "iso639_1": "it", "iso639_2": "ita", "name": "Italian", "nativeName": "Italiano" }
 		],
 		"translations": {
 			"de": "Italien",
@@ -6980,12 +5367,7 @@
 		},
 		"flag": "https://restcountries.eu/data/ita.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "ITA"
 	},
@@ -7008,20 +5390,9 @@
 		"borders": [],
 		"nativeName": "Jamaica",
 		"numericCode": "388",
-		"currencies": [
-			{
-				"code": "JMD",
-				"name": "Jamaican dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "JMD", "name": "Jamaican dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Jamaika",
@@ -7065,20 +5436,9 @@
 		"borders": [],
 		"nativeName": "日本",
 		"numericCode": "392",
-		"currencies": [
-			{
-				"code": "JPY",
-				"name": "Japanese yen",
-				"symbol": "¥"
-			}
-		],
+		"currencies": [{ "code": "JPY", "name": "Japanese yen", "symbol": "¥" }],
 		"languages": [
-			{
-				"iso639_1": "ja",
-				"iso639_2": "jpn",
-				"name": "Japanese",
-				"nativeName": "日本語 (にほんご)"
-			}
+			{ "iso639_1": "ja", "iso639_2": "jpn", "name": "Japanese", "nativeName": "日本語 (にほんご)" }
 		],
 		"translations": {
 			"de": "Japan",
@@ -7116,30 +5476,12 @@
 		"nativeName": "Jersey",
 		"numericCode": "832",
 		"currencies": [
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			},
-			{
-				"code": "JEP[G]",
-				"name": "Jersey pound",
-				"symbol": "£"
-			}
+			{ "code": "GBP", "name": "British pound", "symbol": "£" },
+			{ "code": "JEP[G]", "name": "Jersey pound", "symbol": "£" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Jersey",
@@ -7176,20 +5518,9 @@
 		"borders": ["IRQ", "ISR", "SAU", "SYR"],
 		"nativeName": "الأردن",
 		"numericCode": "400",
-		"currencies": [
-			{
-				"code": "JOD",
-				"name": "Jordanian dinar",
-				"symbol": "د.ا"
-			}
-		],
+		"currencies": [{ "code": "JOD", "name": "Jordanian dinar", "symbol": "د.ا" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Jordanien",
@@ -7246,26 +5577,10 @@
 		"borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
 		"nativeName": "Қазақстан",
 		"numericCode": "398",
-		"currencies": [
-			{
-				"code": "KZT",
-				"name": "Kazakhstani tenge",
-				"symbol": null
-			}
-		],
+		"currencies": [{ "code": "KZT", "name": "Kazakhstani tenge", "symbol": null }],
 		"languages": [
-			{
-				"iso639_1": "kk",
-				"iso639_2": "kaz",
-				"name": "Kazakh",
-				"nativeName": "қазақ тілі"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "kk", "iso639_2": "kaz", "name": "Kazakh", "nativeName": "қазақ тілі" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Kasachstan",
@@ -7309,26 +5624,10 @@
 		"borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
 		"nativeName": "Kenya",
 		"numericCode": "404",
-		"currencies": [
-			{
-				"code": "KES",
-				"name": "Kenyan shilling",
-				"symbol": "Sh"
-			}
-		],
+		"currencies": [{ "code": "KES", "name": "Kenyan shilling", "symbol": "Sh" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "sw",
-				"iso639_2": "swa",
-				"name": "Swahili",
-				"nativeName": "Kiswahili"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "sw", "iso639_2": "swa", "name": "Swahili", "nativeName": "Kiswahili" }
 		],
 		"translations": {
 			"de": "Kenia",
@@ -7379,24 +5678,11 @@
 		"nativeName": "Kiribati",
 		"numericCode": "296",
 		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "(none)",
-				"name": "Kiribati dollar",
-				"symbol": "$"
-			}
+			{ "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+			{ "code": "(none)", "name": "Kiribati dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Kiribati",
@@ -7433,20 +5719,9 @@
 		"borders": ["IRN", "SAU"],
 		"nativeName": "الكويت",
 		"numericCode": "414",
-		"currencies": [
-			{
-				"code": "KWD",
-				"name": "Kuwaiti dinar",
-				"symbol": "د.ك"
-			}
-		],
+		"currencies": [{ "code": "KWD", "name": "Kuwaiti dinar", "symbol": "د.ك" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Kuwait",
@@ -7500,26 +5775,10 @@
 		"borders": ["CHN", "KAZ", "TJK", "UZB"],
 		"nativeName": "Кыргызстан",
 		"numericCode": "417",
-		"currencies": [
-			{
-				"code": "KGS",
-				"name": "Kyrgyzstani som",
-				"symbol": "с"
-			}
-		],
+		"currencies": [{ "code": "KGS", "name": "Kyrgyzstani som", "symbol": "с" }],
 		"languages": [
-			{
-				"iso639_1": "ky",
-				"iso639_2": "kir",
-				"name": "Kyrgyz",
-				"nativeName": "Кыргызча"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "ky", "iso639_2": "kir", "name": "Kyrgyz", "nativeName": "Кыргызча" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Kirgisistan",
@@ -7569,21 +5828,8 @@
 		"borders": ["MMR", "KHM", "CHN", "THA", "VNM"],
 		"nativeName": "ສປປລາວ",
 		"numericCode": "418",
-		"currencies": [
-			{
-				"code": "LAK",
-				"name": "Lao kip",
-				"symbol": "₭"
-			}
-		],
-		"languages": [
-			{
-				"iso639_1": "lo",
-				"iso639_2": "lao",
-				"name": "Lao",
-				"nativeName": "ພາສາລາວ"
-			}
-		],
+		"currencies": [{ "code": "LAK", "name": "Lao kip", "symbol": "₭" }],
+		"languages": [{ "iso639_1": "lo", "iso639_2": "lao", "name": "Lao", "nativeName": "ພາສາລາວ" }],
 		"translations": {
 			"de": "Laos",
 			"es": "Laos",
@@ -7626,20 +5872,9 @@
 		"borders": ["BLR", "EST", "LTU", "RUS"],
 		"nativeName": "Latvija",
 		"numericCode": "428",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "lv",
-				"iso639_2": "lav",
-				"name": "Latvian",
-				"nativeName": "latviešu valoda"
-			}
+			{ "iso639_1": "lv", "iso639_2": "lav", "name": "Latvian", "nativeName": "latviešu valoda" }
 		],
 		"translations": {
 			"de": "Lettland",
@@ -7655,12 +5890,7 @@
 		},
 		"flag": "https://restcountries.eu/data/lva.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "LAT"
 	},
@@ -7683,26 +5913,10 @@
 		"borders": ["ISR", "SYR"],
 		"nativeName": "لبنان",
 		"numericCode": "422",
-		"currencies": [
-			{
-				"code": "LBP",
-				"name": "Lebanese pound",
-				"symbol": "ل.ل"
-			}
-		],
+		"currencies": [{ "code": "LBP", "name": "Lebanese pound", "symbol": "ل.ل" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Libanon",
@@ -7751,30 +5965,12 @@
 		"nativeName": "Lesotho",
 		"numericCode": "426",
 		"currencies": [
-			{
-				"code": "LSL",
-				"name": "Lesotho loti",
-				"symbol": "L"
-			},
-			{
-				"code": "ZAR",
-				"name": "South African rand",
-				"symbol": "R"
-			}
+			{ "code": "LSL", "name": "Lesotho loti", "symbol": "L" },
+			{ "code": "ZAR", "name": "South African rand", "symbol": "R" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "st",
-				"iso639_2": "sot",
-				"name": "Southern Sotho",
-				"nativeName": "Sesotho"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "st", "iso639_2": "sot", "name": "Southern Sotho", "nativeName": "Sesotho" }
 		],
 		"translations": {
 			"de": "Lesotho",
@@ -7824,20 +6020,9 @@
 		"borders": ["GIN", "CIV", "SLE"],
 		"nativeName": "Liberia",
 		"numericCode": "430",
-		"currencies": [
-			{
-				"code": "LRD",
-				"name": "Liberian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "LRD", "name": "Liberian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Liberia",
@@ -7887,20 +6072,9 @@
 		"borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"],
 		"nativeName": "‏ليبيا",
 		"numericCode": "434",
-		"currencies": [
-			{
-				"code": "LYD",
-				"name": "Libyan dinar",
-				"symbol": "ل.د"
-			}
-		],
+		"currencies": [{ "code": "LYD", "name": "Libyan dinar", "symbol": "ل.د" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Libyen",
@@ -7960,20 +6134,9 @@
 		"borders": ["AUT", "CHE"],
 		"nativeName": "Liechtenstein",
 		"numericCode": "438",
-		"currencies": [
-			{
-				"code": "CHF",
-				"name": "Swiss franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			}
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" }
 		],
 		"translations": {
 			"de": "Liechtenstein",
@@ -8017,20 +6180,9 @@
 		"borders": ["BLR", "LVA", "POL", "RUS"],
 		"nativeName": "Lietuva",
 		"numericCode": "440",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "lt",
-				"iso639_2": "lit",
-				"name": "Lithuanian",
-				"nativeName": "lietuvių kalba"
-			}
+			{ "iso639_1": "lt", "iso639_2": "lit", "name": "Lithuanian", "nativeName": "lietuvių kalba" }
 		],
 		"translations": {
 			"de": "Litauen",
@@ -8046,12 +6198,7 @@
 		},
 		"flag": "https://restcountries.eu/data/ltu.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "LTU"
 	},
@@ -8080,26 +6227,10 @@
 		"borders": ["BEL", "FRA", "DEU"],
 		"nativeName": "Luxembourg",
 		"numericCode": "442",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			},
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" },
 			{
 				"iso639_1": "lb",
 				"iso639_2": "ltz",
@@ -8121,12 +6252,7 @@
 		},
 		"flag": "https://restcountries.eu/data/lux.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "LUX"
 	},
@@ -8155,26 +6281,10 @@
 		"borders": ["CHN"],
 		"nativeName": "澳門",
 		"numericCode": "446",
-		"currencies": [
-			{
-				"code": "MOP",
-				"name": "Macanese pataca",
-				"symbol": "P"
-			}
-		],
+		"currencies": [{ "code": "MOP", "name": "Macanese pataca", "symbol": "P" }],
 		"languages": [
-			{
-				"iso639_1": "zh",
-				"iso639_2": "zho",
-				"name": "Chinese",
-				"nativeName": "中文 (Zhōngwén)"
-			},
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "zh", "iso639_2": "zho", "name": "Chinese", "nativeName": "中文 (Zhōngwén)" },
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Macao",
@@ -8211,13 +6321,7 @@
 		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
 		"nativeName": "Македонија",
 		"numericCode": "807",
-		"currencies": [
-			{
-				"code": "MKD",
-				"name": "Macedonian denar",
-				"symbol": "ден"
-			}
-		],
+		"currencies": [{ "code": "MKD", "name": "Macedonian denar", "symbol": "ден" }],
 		"languages": [
 			{
 				"iso639_1": "mk",
@@ -8273,26 +6377,10 @@
 		"borders": [],
 		"nativeName": "Madagasikara",
 		"numericCode": "450",
-		"currencies": [
-			{
-				"code": "MGA",
-				"name": "Malagasy ariary",
-				"symbol": "Ar"
-			}
-		],
+		"currencies": [{ "code": "MGA", "name": "Malagasy ariary", "symbol": "Ar" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "mg",
-				"iso639_2": "mlg",
-				"name": "Malagasy",
-				"nativeName": "fiteny malagasy"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "mg", "iso639_2": "mlg", "name": "Malagasy", "nativeName": "fiteny malagasy" }
 		],
 		"translations": {
 			"de": "Madagaskar",
@@ -8342,26 +6430,10 @@
 		"borders": ["MOZ", "TZA", "ZMB"],
 		"nativeName": "Malawi",
 		"numericCode": "454",
-		"currencies": [
-			{
-				"code": "MWK",
-				"name": "Malawian kwacha",
-				"symbol": "MK"
-			}
-		],
+		"currencies": [{ "code": "MWK", "name": "Malawian kwacha", "symbol": "MK" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ny",
-				"iso639_2": "nya",
-				"name": "Chichewa",
-				"nativeName": "chiCheŵa"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ny", "iso639_2": "nya", "name": "Chichewa", "nativeName": "chiCheŵa" }
 		],
 		"translations": {
 			"de": "Malawi",
@@ -8411,20 +6483,9 @@
 		"borders": ["BRN", "IDN", "THA"],
 		"nativeName": "Malaysia",
 		"numericCode": "458",
-		"currencies": [
-			{
-				"code": "MYR",
-				"name": "Malaysian ringgit",
-				"symbol": "RM"
-			}
-		],
+		"currencies": [{ "code": "MYR", "name": "Malaysian ringgit", "symbol": "RM" }],
 		"languages": [
-			{
-				"iso639_1": null,
-				"iso639_2": "zsm",
-				"name": "Malaysian",
-				"nativeName": "بهاس مليسيا"
-			}
+			{ "iso639_1": null, "iso639_2": "zsm", "name": "Malaysian", "nativeName": "بهاس مليسيا" }
 		],
 		"translations": {
 			"de": "Malaysia",
@@ -8473,20 +6534,9 @@
 		"borders": [],
 		"nativeName": "Maldives",
 		"numericCode": "462",
-		"currencies": [
-			{
-				"code": "MVR",
-				"name": "Maldivian rufiyaa",
-				"symbol": ".ރ"
-			}
-		],
+		"currencies": [{ "code": "MVR", "name": "Maldivian rufiyaa", "symbol": ".ރ" }],
 		"languages": [
-			{
-				"iso639_1": "dv",
-				"iso639_2": "div",
-				"name": "Divehi",
-				"nativeName": "ދިވެހި"
-			}
+			{ "iso639_1": "dv", "iso639_2": "div", "name": "Divehi", "nativeName": "ދިވެހި" }
 		],
 		"translations": {
 			"de": "Malediven",
@@ -8530,20 +6580,9 @@
 		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
 		"nativeName": "Mali",
 		"numericCode": "466",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Mali",
@@ -8593,26 +6632,10 @@
 		"borders": [],
 		"nativeName": "Malta",
 		"numericCode": "470",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "mt",
-				"iso639_2": "mlt",
-				"name": "Maltese",
-				"nativeName": "Malti"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "mt", "iso639_2": "mlt", "name": "Maltese", "nativeName": "Malti" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Malta",
@@ -8628,12 +6651,7 @@
 		},
 		"flag": "https://restcountries.eu/data/mlt.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "MLT"
 	},
@@ -8656,26 +6674,10 @@
 		"borders": [],
 		"nativeName": "M̧ajeļ",
 		"numericCode": "584",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "mh",
-				"iso639_2": "mah",
-				"name": "Marshallese",
-				"nativeName": "Kajin M̧ajeļ"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "mh", "iso639_2": "mah", "name": "Marshallese", "nativeName": "Kajin M̧ajeļ" }
 		],
 		"translations": {
 			"de": "Marshallinseln",
@@ -8712,20 +6714,9 @@
 		"borders": [],
 		"nativeName": "Martinique",
 		"numericCode": "474",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Martinique",
@@ -8766,20 +6757,9 @@
 		"borders": ["DZA", "MLI", "SEN", "ESH"],
 		"nativeName": "موريتانيا",
 		"numericCode": "478",
-		"currencies": [
-			{
-				"code": "MRO",
-				"name": "Mauritanian ouguiya",
-				"symbol": "UM"
-			}
-		],
+		"currencies": [{ "code": "MRO", "name": "Mauritanian ouguiya", "symbol": "UM" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Mauretanien",
@@ -8839,20 +6819,9 @@
 		"borders": [],
 		"nativeName": "Maurice",
 		"numericCode": "480",
-		"currencies": [
-			{
-				"code": "MUR",
-				"name": "Mauritian rupee",
-				"symbol": "₨"
-			}
-		],
+		"currencies": [{ "code": "MUR", "name": "Mauritian rupee", "symbol": "₨" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Mauritius",
@@ -8902,20 +6871,9 @@
 		"borders": [],
 		"nativeName": "Mayotte",
 		"numericCode": "175",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Mayotte",
@@ -8965,20 +6923,9 @@
 		"borders": ["BLZ", "GTM", "USA"],
 		"nativeName": "México",
 		"numericCode": "484",
-		"currencies": [
-			{
-				"code": "MXN",
-				"name": "Mexican peso",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "MXN", "name": "Mexican peso", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Mexiko",
@@ -9032,24 +6979,11 @@
 		"nativeName": "Micronesia",
 		"numericCode": "583",
 		"currencies": [
-			{
-				"code": null,
-				"name": "[D]",
-				"symbol": "$"
-			},
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
+			{ "code": null, "name": "[D]", "symbol": "$" },
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Mikronesien",
@@ -9086,20 +7020,9 @@
 		"borders": ["ROU", "UKR"],
 		"nativeName": "Moldova",
 		"numericCode": "498",
-		"currencies": [
-			{
-				"code": "MDL",
-				"name": "Moldovan leu",
-				"symbol": "L"
-			}
-		],
+		"currencies": [{ "code": "MDL", "name": "Moldovan leu", "symbol": "L" }],
 		"languages": [
-			{
-				"iso639_1": "ro",
-				"iso639_2": "ron",
-				"name": "Romanian",
-				"nativeName": "Română"
-			}
+			{ "iso639_1": "ro", "iso639_2": "ron", "name": "Romanian", "nativeName": "Română" }
 		],
 		"translations": {
 			"de": "Moldawie",
@@ -9143,20 +7066,9 @@
 		"borders": ["FRA"],
 		"nativeName": "Monaco",
 		"numericCode": "492",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Monaco",
@@ -9193,20 +7105,9 @@
 		"borders": ["CHN", "RUS"],
 		"nativeName": "Монгол улс",
 		"numericCode": "496",
-		"currencies": [
-			{
-				"code": "MNT",
-				"name": "Mongolian tögrög",
-				"symbol": "₮"
-			}
-		],
+		"currencies": [{ "code": "MNT", "name": "Mongolian tögrög", "symbol": "₮" }],
 		"languages": [
-			{
-				"iso639_1": "mn",
-				"iso639_2": "mon",
-				"name": "Mongolian",
-				"nativeName": "Монгол хэл"
-			}
+			{ "iso639_1": "mn", "iso639_2": "mon", "name": "Mongolian", "nativeName": "Монгол хэл" }
 		],
 		"translations": {
 			"de": "Mongolei",
@@ -9243,38 +7144,12 @@
 		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
 		"nativeName": "Црна Гора",
 		"numericCode": "499",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "sr",
-				"iso639_2": "srp",
-				"name": "Serbian",
-				"nativeName": "српски језик"
-			},
-			{
-				"iso639_1": "bs",
-				"iso639_2": "bos",
-				"name": "Bosnian",
-				"nativeName": "bosanski jezik"
-			},
-			{
-				"iso639_1": "sq",
-				"iso639_2": "sqi",
-				"name": "Albanian",
-				"nativeName": "Shqip"
-			},
-			{
-				"iso639_1": "hr",
-				"iso639_2": "hrv",
-				"name": "Croatian",
-				"nativeName": "hrvatski jezik"
-			}
+			{ "iso639_1": "sr", "iso639_2": "srp", "name": "Serbian", "nativeName": "српски језик" },
+			{ "iso639_1": "bs", "iso639_2": "bos", "name": "Bosnian", "nativeName": "bosanski jezik" },
+			{ "iso639_1": "sq", "iso639_2": "sqi", "name": "Albanian", "nativeName": "Shqip" },
+			{ "iso639_1": "hr", "iso639_2": "hrv", "name": "Croatian", "nativeName": "hrvatski jezik" }
 		],
 		"translations": {
 			"de": "Montenegro",
@@ -9318,20 +7193,9 @@
 		"borders": [],
 		"nativeName": "Montserrat",
 		"numericCode": "500",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Montserrat",
@@ -9375,20 +7239,9 @@
 		"borders": ["DZA", "ESH", "ESP"],
 		"nativeName": "المغرب",
 		"numericCode": "504",
-		"currencies": [
-			{
-				"code": "MAD",
-				"name": "Moroccan dirham",
-				"symbol": "د.م."
-			}
-		],
+		"currencies": [{ "code": "MAD", "name": "Moroccan dirham", "symbol": "د.م." }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Marokko",
@@ -9448,20 +7301,9 @@
 		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
 		"nativeName": "Moçambique",
 		"numericCode": "508",
-		"currencies": [
-			{
-				"code": "MZN",
-				"name": "Mozambican metical",
-				"symbol": "MT"
-			}
-		],
+		"currencies": [{ "code": "MZN", "name": "Mozambican metical", "symbol": "MT" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Mosambik",
@@ -9516,20 +7358,9 @@
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
 		"nativeName": "Myanma",
 		"numericCode": "104",
-		"currencies": [
-			{
-				"code": "MMK",
-				"name": "Burmese kyat",
-				"symbol": "Ks"
-			}
-		],
+		"currencies": [{ "code": "MMK", "name": "Burmese kyat", "symbol": "Ks" }],
 		"languages": [
-			{
-				"iso639_1": "my",
-				"iso639_2": "mya",
-				"name": "Burmese",
-				"nativeName": "ဗမာစာ"
-			}
+			{ "iso639_1": "my", "iso639_2": "mya", "name": "Burmese", "nativeName": "ဗမာစာ" }
 		],
 		"translations": {
 			"de": "Myanmar",
@@ -9574,30 +7405,12 @@
 		"nativeName": "Namibia",
 		"numericCode": "516",
 		"currencies": [
-			{
-				"code": "NAD",
-				"name": "Namibian dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "ZAR",
-				"name": "South African rand",
-				"symbol": "R"
-			}
+			{ "code": "NAD", "name": "Namibian dollar", "symbol": "$" },
+			{ "code": "ZAR", "name": "South African rand", "symbol": "R" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "af",
-				"iso639_2": "afr",
-				"name": "Afrikaans",
-				"nativeName": "Afrikaans"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "af", "iso639_2": "afr", "name": "Afrikaans", "nativeName": "Afrikaans" }
 		],
 		"translations": {
 			"de": "Namibia",
@@ -9648,30 +7461,12 @@
 		"nativeName": "Nauru",
 		"numericCode": "520",
 		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "(none)",
-				"name": null,
-				"symbol": "$"
-			}
+			{ "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+			{ "code": "(none)", "name": null, "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "na",
-				"iso639_2": "nau",
-				"name": "Nauruan",
-				"nativeName": "Dorerin Naoero"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "na", "iso639_2": "nau", "name": "Nauruan", "nativeName": "Dorerin Naoero" }
 		],
 		"translations": {
 			"de": "Nauru",
@@ -9708,20 +7503,9 @@
 		"borders": ["CHN", "IND"],
 		"nativeName": "नेपाल",
 		"numericCode": "524",
-		"currencies": [
-			{
-				"code": "NPR",
-				"name": "Nepalese rupee",
-				"symbol": "₨"
-			}
-		],
+		"currencies": [{ "code": "NPR", "name": "Nepalese rupee", "symbol": "₨" }],
 		"languages": [
-			{
-				"iso639_1": "ne",
-				"iso639_2": "nep",
-				"name": "Nepali",
-				"nativeName": "नेपाली"
-			}
+			{ "iso639_1": "ne", "iso639_2": "nep", "name": "Nepali", "nativeName": "नेपाली" }
 		],
 		"translations": {
 			"de": "Népal",
@@ -9765,20 +7549,9 @@
 		"borders": ["BEL", "DEU"],
 		"nativeName": "Nederland",
 		"numericCode": "528",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" }
 		],
 		"translations": {
 			"de": "Niederlande",
@@ -9794,12 +7567,7 @@
 		},
 		"flag": "https://restcountries.eu/data/nld.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "NED"
 	},
@@ -9822,20 +7590,9 @@
 		"borders": [],
 		"nativeName": "Nouvelle-Calédonie",
 		"numericCode": "540",
-		"currencies": [
-			{
-				"code": "XPF",
-				"name": "CFP franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XPF", "name": "CFP franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Neukaledonien",
@@ -9872,26 +7629,10 @@
 		"borders": [],
 		"nativeName": "New Zealand",
 		"numericCode": "554",
-		"currencies": [
-			{
-				"code": "NZD",
-				"name": "New Zealand dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "mi",
-				"iso639_2": "mri",
-				"name": "Māori",
-				"nativeName": "te reo Māori"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "mi", "iso639_2": "mri", "name": "Māori", "nativeName": "te reo Māori" }
 		],
 		"translations": {
 			"de": "Neuseeland",
@@ -9928,20 +7669,9 @@
 		"borders": ["CRI", "HND"],
 		"nativeName": "Nicaragua",
 		"numericCode": "558",
-		"currencies": [
-			{
-				"code": "NIO",
-				"name": "Nicaraguan córdoba",
-				"symbol": "C$"
-			}
-		],
+		"currencies": [{ "code": "NIO", "name": "Nicaraguan córdoba", "symbol": "C$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Nicaragua",
@@ -9985,20 +7715,9 @@
 		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
 		"nativeName": "Niger",
 		"numericCode": "562",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Niger",
@@ -10048,20 +7767,9 @@
 		"borders": ["BEN", "CMR", "TCD", "NER"],
 		"nativeName": "Nigeria",
 		"numericCode": "566",
-		"currencies": [
-			{
-				"code": "NGN",
-				"name": "Nigerian naira",
-				"symbol": "₦"
-			}
-		],
+		"currencies": [{ "code": "NGN", "name": "Nigerian naira", "symbol": "₦" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Nigeria",
@@ -10112,24 +7820,11 @@
 		"nativeName": "Niuē",
 		"numericCode": "570",
 		"currencies": [
-			{
-				"code": "NZD",
-				"name": "New Zealand dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "(none)",
-				"name": "Niue dollar",
-				"symbol": "$"
-			}
+			{ "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+			{ "code": "(none)", "name": "Niue dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Niue",
@@ -10166,20 +7861,9 @@
 		"borders": [],
 		"nativeName": "Norfolk Island",
 		"numericCode": "574",
-		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "AUD", "name": "Australian dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Norfolkinsel",
@@ -10221,20 +7905,9 @@
 		"borders": ["CHN", "KOR", "RUS"],
 		"nativeName": "북한",
 		"numericCode": "408",
-		"currencies": [
-			{
-				"code": "KPW",
-				"name": "North Korean won",
-				"symbol": "₩"
-			}
-		],
+		"currencies": [{ "code": "KPW", "name": "North Korean won", "symbol": "₩" }],
 		"languages": [
-			{
-				"iso639_1": "ko",
-				"iso639_2": "kor",
-				"name": "Korean",
-				"nativeName": "한국어"
-			}
+			{ "iso639_1": "ko", "iso639_2": "kor", "name": "Korean", "nativeName": "한국어" }
 		],
 		"translations": {
 			"de": "Nordkorea",
@@ -10275,26 +7948,10 @@
 		"borders": [],
 		"nativeName": "Northern Mariana Islands",
 		"numericCode": "580",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ch",
-				"iso639_2": "cha",
-				"name": "Chamorro",
-				"nativeName": "Chamoru"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ch", "iso639_2": "cha", "name": "Chamorro", "nativeName": "Chamoru" }
 		],
 		"translations": {
 			"de": "Nördliche Marianen",
@@ -10338,20 +7995,9 @@
 		"borders": ["FIN", "SWE", "RUS"],
 		"nativeName": "Norge",
 		"numericCode": "578",
-		"currencies": [
-			{
-				"code": "NOK",
-				"name": "Norwegian krone",
-				"symbol": "kr"
-			}
-		],
+		"currencies": [{ "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }],
 		"languages": [
-			{
-				"iso639_1": "no",
-				"iso639_2": "nor",
-				"name": "Norwegian",
-				"nativeName": "Norsk"
-			},
+			{ "iso639_1": "no", "iso639_2": "nor", "name": "Norwegian", "nativeName": "Norsk" },
 			{
 				"iso639_1": "nb",
 				"iso639_2": "nob",
@@ -10407,20 +8053,9 @@
 		"borders": ["SAU", "ARE", "YEM"],
 		"nativeName": "عمان",
 		"numericCode": "512",
-		"currencies": [
-			{
-				"code": "OMR",
-				"name": "Omani rial",
-				"symbol": "ر.ع."
-			}
-		],
+		"currencies": [{ "code": "OMR", "name": "Omani rial", "symbol": "ر.ع." }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Oman",
@@ -10473,26 +8108,10 @@
 		"borders": ["AFG", "CHN", "IND", "IRN"],
 		"nativeName": "Pakistan",
 		"numericCode": "586",
-		"currencies": [
-			{
-				"code": "PKR",
-				"name": "Pakistani rupee",
-				"symbol": "₨"
-			}
-		],
+		"currencies": [{ "code": "PKR", "name": "Pakistani rupee", "symbol": "₨" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ur",
-				"iso639_2": "urd",
-				"name": "Urdu",
-				"nativeName": "اردو"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ur", "iso639_2": "urd", "name": "Urdu", "nativeName": "اردو" }
 		],
 		"translations": {
 			"de": "Pakistan",
@@ -10537,24 +8156,11 @@
 		"nativeName": "Palau",
 		"numericCode": "585",
 		"currencies": [
-			{
-				"code": "(none)",
-				"name": "[E]",
-				"symbol": "$"
-			},
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
+			{ "code": "(none)", "name": "[E]", "symbol": "$" },
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Palau",
@@ -10591,20 +8197,9 @@
 		"borders": ["ISR", "EGY", "JOR"],
 		"nativeName": "فلسطين",
 		"numericCode": "275",
-		"currencies": [
-			{
-				"code": "ILS",
-				"name": "Israeli new sheqel",
-				"symbol": "₪"
-			}
-		],
+		"currencies": [{ "code": "ILS", "name": "Israeli new sheqel", "symbol": "₪" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Palästina",
@@ -10653,24 +8248,11 @@
 		"nativeName": "Panamá",
 		"numericCode": "591",
 		"currencies": [
-			{
-				"code": "PAB",
-				"name": "Panamanian balboa",
-				"symbol": "B/."
-			},
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
+			{ "code": "PAB", "name": "Panamanian balboa", "symbol": "B/." },
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Panama",
@@ -10718,20 +8300,9 @@
 		"borders": ["IDN"],
 		"nativeName": "Papua Niugini",
 		"numericCode": "598",
-		"currencies": [
-			{
-				"code": "PGK",
-				"name": "Papua New Guinean kina",
-				"symbol": "K"
-			}
-		],
+		"currencies": [{ "code": "PGK", "name": "Papua New Guinean kina", "symbol": "K" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Papua-Neuguinea",
@@ -10768,26 +8339,10 @@
 		"borders": ["ARG", "BOL", "BRA"],
 		"nativeName": "Paraguay",
 		"numericCode": "600",
-		"currencies": [
-			{
-				"code": "PYG",
-				"name": "Paraguayan guaraní",
-				"symbol": "₲"
-			}
-		],
+		"currencies": [{ "code": "PYG", "name": "Paraguayan guaraní", "symbol": "₲" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			},
-			{
-				"iso639_1": "gn",
-				"iso639_2": "grn",
-				"name": "Guaraní",
-				"nativeName": "Avañe'ẽ"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" },
+			{ "iso639_1": "gn", "iso639_2": "grn", "name": "Guaraní", "nativeName": "Avañe'ẽ" }
 		],
 		"translations": {
 			"de": "Paraguay",
@@ -10836,20 +8391,9 @@
 		"borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
 		"nativeName": "Perú",
 		"numericCode": "604",
-		"currencies": [
-			{
-				"code": "PEN",
-				"name": "Peruvian sol",
-				"symbol": "S/."
-			}
-		],
+		"currencies": [{ "code": "PEN", "name": "Peruvian sol", "symbol": "S/." }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Peru",
@@ -10904,20 +8448,9 @@
 		"borders": [],
 		"nativeName": "Pilipinas",
 		"numericCode": "608",
-		"currencies": [
-			{
-				"code": "PHP",
-				"name": "Philippine peso",
-				"symbol": "₱"
-			}
-		],
+		"currencies": [{ "code": "PHP", "name": "Philippine peso", "symbol": "₱" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Philippinen",
@@ -10962,24 +8495,11 @@
 		"nativeName": "Pitcairn Islands",
 		"numericCode": "612",
 		"currencies": [
-			{
-				"code": "NZD",
-				"name": "New Zealand dollar",
-				"symbol": "$"
-			},
-			{
-				"code": null,
-				"name": "Pitcairn Islands dollar",
-				"symbol": "$"
-			}
+			{ "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+			{ "code": null, "name": "Pitcairn Islands dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Pitcairn",
@@ -11016,20 +8536,9 @@
 		"borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
 		"nativeName": "Polska",
 		"numericCode": "616",
-		"currencies": [
-			{
-				"code": "PLN",
-				"name": "Polish złoty",
-				"symbol": "zł"
-			}
-		],
+		"currencies": [{ "code": "PLN", "name": "Polish złoty", "symbol": "zł" }],
 		"languages": [
-			{
-				"iso639_1": "pl",
-				"iso639_2": "pol",
-				"name": "Polish",
-				"nativeName": "język polski"
-			}
+			{ "iso639_1": "pl", "iso639_2": "pol", "name": "Polish", "nativeName": "język polski" }
 		],
 		"translations": {
 			"de": "Polen",
@@ -11045,12 +8554,7 @@
 		},
 		"flag": "https://restcountries.eu/data/pol.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "POL"
 	},
@@ -11073,20 +8577,9 @@
 		"borders": ["ESP"],
 		"nativeName": "Portugal",
 		"numericCode": "620",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Portugal",
@@ -11102,12 +8595,7 @@
 		},
 		"flag": "https://restcountries.eu/data/prt.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "POR"
 	},
@@ -11130,26 +8618,10 @@
 		"borders": [],
 		"nativeName": "Puerto Rico",
 		"numericCode": "630",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Puerto Rico",
@@ -11186,20 +8658,9 @@
 		"borders": ["SAU"],
 		"nativeName": "قطر",
 		"numericCode": "634",
-		"currencies": [
-			{
-				"code": "QAR",
-				"name": "Qatari riyal",
-				"symbol": "ر.ق"
-			}
-		],
+		"currencies": [{ "code": "QAR", "name": "Qatari riyal", "symbol": "ر.ق" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Katar",
@@ -11247,26 +8708,10 @@
 		"borders": ["ALB", "MKD", "MNE", "SRB"],
 		"nativeName": "Republika e Kosovës",
 		"numericCode": null,
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "sq",
-				"iso639_2": "sqi",
-				"name": "Albanian",
-				"nativeName": "Shqip"
-			},
-			{
-				"iso639_1": "sr",
-				"iso639_2": "srp",
-				"name": "Serbian",
-				"nativeName": "српски језик"
-			}
+			{ "iso639_1": "sq", "iso639_2": "sqi", "name": "Albanian", "nativeName": "Shqip" },
+			{ "iso639_1": "sr", "iso639_2": "srp", "name": "Serbian", "nativeName": "српски језик" }
 		],
 		"translations": {
 			"de": null,
@@ -11310,20 +8755,9 @@
 		"borders": [],
 		"nativeName": "La Réunion",
 		"numericCode": "638",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Réunion",
@@ -11373,20 +8807,9 @@
 		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
 		"nativeName": "România",
 		"numericCode": "642",
-		"currencies": [
-			{
-				"code": "RON",
-				"name": "Romanian leu",
-				"symbol": "lei"
-			}
-		],
+		"currencies": [{ "code": "RON", "name": "Romanian leu", "symbol": "lei" }],
 		"languages": [
-			{
-				"iso639_1": "ro",
-				"iso639_2": "ron",
-				"name": "Romanian",
-				"nativeName": "Română"
-			}
+			{ "iso639_1": "ro", "iso639_2": "ron", "name": "Romanian", "nativeName": "Română" }
 		],
 		"translations": {
 			"de": "Rumänien",
@@ -11402,12 +8825,7 @@
 		},
 		"flag": "https://restcountries.eu/data/rou.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "ROU"
 	},
@@ -11461,20 +8879,9 @@
 		],
 		"nativeName": "Россия",
 		"numericCode": "643",
-		"currencies": [
-			{
-				"code": "RUB",
-				"name": "Russian ruble",
-				"symbol": "₽"
-			}
-		],
+		"currencies": [{ "code": "RUB", "name": "Russian ruble", "symbol": "₽" }],
 		"languages": [
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Russland",
@@ -11518,32 +8925,11 @@
 		"borders": ["BDI", "COD", "TZA", "UGA"],
 		"nativeName": "Rwanda",
 		"numericCode": "646",
-		"currencies": [
-			{
-				"code": "RWF",
-				"name": "Rwandan franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "RWF", "name": "Rwandan franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "rw",
-				"iso639_2": "kin",
-				"name": "Kinyarwanda",
-				"nativeName": "Ikinyarwanda"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "rw", "iso639_2": "kin", "name": "Kinyarwanda", "nativeName": "Ikinyarwanda" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Ruanda",
@@ -11598,20 +8984,9 @@
 		"borders": [],
 		"nativeName": "Saint-Barthélemy",
 		"numericCode": "652",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Saint-Barthélemy",
@@ -11648,20 +9023,9 @@
 		"borders": [],
 		"nativeName": "Saint Helena",
 		"numericCode": "654",
-		"currencies": [
-			{
-				"code": "SHP",
-				"name": "Saint Helena pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "SHP", "name": "Saint Helena pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Sankt Helena",
@@ -11711,20 +9075,9 @@
 		"borders": [],
 		"nativeName": "Saint Kitts and Nevis",
 		"numericCode": "659",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "St. Kitts und Nevis",
@@ -11768,20 +9121,9 @@
 		"borders": [],
 		"nativeName": "Saint Lucia",
 		"numericCode": "662",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Saint Lucia",
@@ -11825,32 +9167,11 @@
 		"borders": ["SXM", "NLD"],
 		"nativeName": "Saint-Martin",
 		"numericCode": "663",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" }
 		],
 		"translations": {
 			"de": "Saint Martin",
@@ -11887,20 +9208,9 @@
 		"borders": [],
 		"nativeName": "Saint-Pierre-et-Miquelon",
 		"numericCode": "666",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Saint-Pierre und Miquelon",
@@ -11937,20 +9247,9 @@
 		"borders": [],
 		"nativeName": "Saint Vincent and the Grenadines",
 		"numericCode": "670",
-		"currencies": [
-			{
-				"code": "XCD",
-				"name": "East Caribbean dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Saint Vincent und die Grenadinen",
@@ -11994,26 +9293,10 @@
 		"borders": [],
 		"nativeName": "Samoa",
 		"numericCode": "882",
-		"currencies": [
-			{
-				"code": "WST",
-				"name": "Samoan tālā",
-				"symbol": "T"
-			}
-		],
+		"currencies": [{ "code": "WST", "name": "Samoan tālā", "symbol": "T" }],
 		"languages": [
-			{
-				"iso639_1": "sm",
-				"iso639_2": "smo",
-				"name": "Samoan",
-				"nativeName": "gagana fa'a Samoa"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "sm", "iso639_2": "smo", "name": "Samoan", "nativeName": "gagana fa'a Samoa" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Samoa",
@@ -12050,20 +9333,9 @@
 		"borders": ["ITA"],
 		"nativeName": "San Marino",
 		"numericCode": "674",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "it",
-				"iso639_2": "ita",
-				"name": "Italian",
-				"nativeName": "Italiano"
-			}
+			{ "iso639_1": "it", "iso639_2": "ita", "name": "Italian", "nativeName": "Italiano" }
 		],
 		"translations": {
 			"de": "San Marino",
@@ -12104,20 +9376,9 @@
 		"borders": [],
 		"nativeName": "São Tomé e Príncipe",
 		"numericCode": "678",
-		"currencies": [
-			{
-				"code": "STD",
-				"name": "São Tomé and Príncipe dobra",
-				"symbol": "Db"
-			}
-		],
+		"currencies": [{ "code": "STD", "name": "São Tomé and Príncipe dobra", "symbol": "Db" }],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "São Tomé und Príncipe",
@@ -12167,20 +9428,9 @@
 		"borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
 		"nativeName": "العربية السعودية",
 		"numericCode": "682",
-		"currencies": [
-			{
-				"code": "SAR",
-				"name": "Saudi riyal",
-				"symbol": "ر.س"
-			}
-		],
+		"currencies": [{ "code": "SAR", "name": "Saudi riyal", "symbol": "ر.س" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Saudi-Arabien",
@@ -12228,20 +9478,9 @@
 		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
 		"nativeName": "Sénégal",
 		"numericCode": "686",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Senegal",
@@ -12291,20 +9530,9 @@
 		"borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"],
 		"nativeName": "Србија",
 		"numericCode": "688",
-		"currencies": [
-			{
-				"code": "RSD",
-				"name": "Serbian dinar",
-				"symbol": "дин."
-			}
-		],
+		"currencies": [{ "code": "RSD", "name": "Serbian dinar", "symbol": "дин." }],
 		"languages": [
-			{
-				"iso639_1": "sr",
-				"iso639_2": "srp",
-				"name": "Serbian",
-				"nativeName": "српски језик"
-			}
+			{ "iso639_1": "sr", "iso639_2": "srp", "name": "Serbian", "nativeName": "српски језик" }
 		],
 		"translations": {
 			"de": "Serbien",
@@ -12348,26 +9576,10 @@
 		"borders": [],
 		"nativeName": "Seychelles",
 		"numericCode": "690",
-		"currencies": [
-			{
-				"code": "SCR",
-				"name": "Seychellois rupee",
-				"symbol": "₨"
-			}
-		],
+		"currencies": [{ "code": "SCR", "name": "Seychellois rupee", "symbol": "₨" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Seychellen",
@@ -12417,20 +9629,9 @@
 		"borders": ["GIN", "LBR"],
 		"nativeName": "Sierra Leone",
 		"numericCode": "694",
-		"currencies": [
-			{
-				"code": "SLL",
-				"name": "Sierra Leonean leone",
-				"symbol": "Le"
-			}
-		],
+		"currencies": [{ "code": "SLL", "name": "Sierra Leonean leone", "symbol": "Le" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Sierra Leone",
@@ -12481,42 +9682,14 @@
 		"nativeName": "Singapore",
 		"numericCode": "702",
 		"currencies": [
-			{
-				"code": "BND",
-				"name": "Brunei dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "SGD",
-				"name": "Singapore dollar",
-				"symbol": "$"
-			}
+			{ "code": "BND", "name": "Brunei dollar", "symbol": "$" },
+			{ "code": "SGD", "name": "Singapore dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ms",
-				"iso639_2": "msa",
-				"name": "Malay",
-				"nativeName": "bahasa Melayu"
-			},
-			{
-				"iso639_1": "ta",
-				"iso639_2": "tam",
-				"name": "Tamil",
-				"nativeName": "தமிழ்"
-			},
-			{
-				"iso639_1": "zh",
-				"iso639_2": "zho",
-				"name": "Chinese",
-				"nativeName": "中文 (Zhōngwén)"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ms", "iso639_2": "msa", "name": "Malay", "nativeName": "bahasa Melayu" },
+			{ "iso639_1": "ta", "iso639_2": "tam", "name": "Tamil", "nativeName": "தமிழ்" },
+			{ "iso639_1": "zh", "iso639_2": "zho", "name": "Chinese", "nativeName": "中文 (Zhōngwén)" }
 		],
 		"translations": {
 			"de": "Singapur",
@@ -12560,26 +9733,10 @@
 		"borders": ["MAF"],
 		"nativeName": "Sint Maarten",
 		"numericCode": "534",
-		"currencies": [
-			{
-				"code": "ANG",
-				"name": "Netherlands Antillean guilder",
-				"symbol": "ƒ"
-			}
-		],
+		"currencies": [{ "code": "ANG", "name": "Netherlands Antillean guilder", "symbol": "ƒ" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Sint Maarten (niederl. Teil)",
@@ -12616,20 +9773,9 @@
 		"borders": ["AUT", "CZE", "HUN", "POL", "UKR"],
 		"nativeName": "Slovensko",
 		"numericCode": "703",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "sk",
-				"iso639_2": "slk",
-				"name": "Slovak",
-				"nativeName": "slovenčina"
-			}
+			{ "iso639_1": "sk", "iso639_2": "slk", "name": "Slovak", "nativeName": "slovenčina" }
 		],
 		"translations": {
 			"de": "Slowakei",
@@ -12645,12 +9791,7 @@
 		},
 		"flag": "https://restcountries.eu/data/svk.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "SVK"
 	},
@@ -12673,20 +9814,9 @@
 		"borders": ["AUT", "HRV", "ITA", "HUN"],
 		"nativeName": "Slovenija",
 		"numericCode": "705",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "sl",
-				"iso639_2": "slv",
-				"name": "Slovene",
-				"nativeName": "slovenski jezik"
-			}
+			{ "iso639_1": "sl", "iso639_2": "slv", "name": "Slovene", "nativeName": "slovenski jezik" }
 		],
 		"translations": {
 			"de": "Slowenien",
@@ -12702,12 +9832,7 @@
 		},
 		"flag": "https://restcountries.eu/data/svn.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "SLO"
 	},
@@ -12730,20 +9855,9 @@
 		"borders": [],
 		"nativeName": "Solomon Islands",
 		"numericCode": "090",
-		"currencies": [
-			{
-				"code": "SBD",
-				"name": "Solomon Islands dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "SBD", "name": "Solomon Islands dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Salomonen",
@@ -12786,26 +9900,10 @@
 		"borders": ["DJI", "ETH", "KEN"],
 		"nativeName": "Soomaaliya",
 		"numericCode": "706",
-		"currencies": [
-			{
-				"code": "SOS",
-				"name": "Somali shilling",
-				"symbol": "Sh"
-			}
-		],
+		"currencies": [{ "code": "SOS", "name": "Somali shilling", "symbol": "Sh" }],
 		"languages": [
-			{
-				"iso639_1": "so",
-				"iso639_2": "som",
-				"name": "Somali",
-				"nativeName": "Soomaaliga"
-			},
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "so", "iso639_2": "som", "name": "Somali", "nativeName": "Soomaaliga" },
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Somalia",
@@ -12865,74 +9963,23 @@
 		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
 		"nativeName": "South Africa",
 		"numericCode": "710",
-		"currencies": [
-			{
-				"code": "ZAR",
-				"name": "South African rand",
-				"symbol": "R"
-			}
-		],
+		"currencies": [{ "code": "ZAR", "name": "South African rand", "symbol": "R" }],
 		"languages": [
-			{
-				"iso639_1": "af",
-				"iso639_2": "afr",
-				"name": "Afrikaans",
-				"nativeName": "Afrikaans"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
+			{ "iso639_1": "af", "iso639_2": "afr", "name": "Afrikaans", "nativeName": "Afrikaans" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
 			{
 				"iso639_1": "nr",
 				"iso639_2": "nbl",
 				"name": "Southern Ndebele",
 				"nativeName": "isiNdebele"
 			},
-			{
-				"iso639_1": "st",
-				"iso639_2": "sot",
-				"name": "Southern Sotho",
-				"nativeName": "Sesotho"
-			},
-			{
-				"iso639_1": "ss",
-				"iso639_2": "ssw",
-				"name": "Swati",
-				"nativeName": "SiSwati"
-			},
-			{
-				"iso639_1": "tn",
-				"iso639_2": "tsn",
-				"name": "Tswana",
-				"nativeName": "Setswana"
-			},
-			{
-				"iso639_1": "ts",
-				"iso639_2": "tso",
-				"name": "Tsonga",
-				"nativeName": "Xitsonga"
-			},
-			{
-				"iso639_1": "ve",
-				"iso639_2": "ven",
-				"name": "Venda",
-				"nativeName": "Tshivenḓa"
-			},
-			{
-				"iso639_1": "xh",
-				"iso639_2": "xho",
-				"name": "Xhosa",
-				"nativeName": "isiXhosa"
-			},
-			{
-				"iso639_1": "zu",
-				"iso639_2": "zul",
-				"name": "Zulu",
-				"nativeName": "isiZulu"
-			}
+			{ "iso639_1": "st", "iso639_2": "sot", "name": "Southern Sotho", "nativeName": "Sesotho" },
+			{ "iso639_1": "ss", "iso639_2": "ssw", "name": "Swati", "nativeName": "SiSwati" },
+			{ "iso639_1": "tn", "iso639_2": "tsn", "name": "Tswana", "nativeName": "Setswana" },
+			{ "iso639_1": "ts", "iso639_2": "tso", "name": "Tsonga", "nativeName": "Xitsonga" },
+			{ "iso639_1": "ve", "iso639_2": "ven", "name": "Venda", "nativeName": "Tshivenḓa" },
+			{ "iso639_1": "xh", "iso639_2": "xho", "name": "Xhosa", "nativeName": "isiXhosa" },
+			{ "iso639_1": "zu", "iso639_2": "zul", "name": "Zulu", "nativeName": "isiZulu" }
 		],
 		"translations": {
 			"de": "Republik Südafrika",
@@ -12983,24 +10030,11 @@
 		"nativeName": "South Georgia",
 		"numericCode": "239",
 		"currencies": [
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			},
-			{
-				"code": "(none)",
-				"name": null,
-				"symbol": "£"
-			}
+			{ "code": "GBP", "name": "British pound", "symbol": "£" },
+			{ "code": "(none)", "name": null, "symbol": "£" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Südgeorgien und die Südlichen Sandwichinseln",
@@ -13049,20 +10083,9 @@
 		"borders": ["PRK"],
 		"nativeName": "대한민국",
 		"numericCode": "410",
-		"currencies": [
-			{
-				"code": "KRW",
-				"name": "South Korean won",
-				"symbol": "₩"
-			}
-		],
+		"currencies": [{ "code": "KRW", "name": "South Korean won", "symbol": "₩" }],
 		"languages": [
-			{
-				"iso639_1": "ko",
-				"iso639_2": "kor",
-				"name": "Korean",
-				"nativeName": "한국어"
-			}
+			{ "iso639_1": "ko", "iso639_2": "kor", "name": "Korean", "nativeName": "한국어" }
 		],
 		"translations": {
 			"de": "Südkorea",
@@ -13099,20 +10122,9 @@
 		"borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"],
 		"nativeName": "South Sudan",
 		"numericCode": "728",
-		"currencies": [
-			{
-				"code": "SSP",
-				"name": "South Sudanese pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "SSP", "name": "South Sudanese pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Südsudan",
@@ -13162,20 +10174,9 @@
 		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
 		"nativeName": "España",
 		"numericCode": "724",
-		"currencies": [
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			}
-		],
+		"currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Spanien",
@@ -13191,12 +10192,7 @@
 		},
 		"flag": "https://restcountries.eu/data/esp.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "ESP"
 	},
@@ -13219,26 +10215,10 @@
 		"borders": ["IND"],
 		"nativeName": "śrī laṃkāva",
 		"numericCode": "144",
-		"currencies": [
-			{
-				"code": "LKR",
-				"name": "Sri Lankan rupee",
-				"symbol": "Rs"
-			}
-		],
+		"currencies": [{ "code": "LKR", "name": "Sri Lankan rupee", "symbol": "Rs" }],
 		"languages": [
-			{
-				"iso639_1": "si",
-				"iso639_2": "sin",
-				"name": "Sinhalese",
-				"nativeName": "සිංහල"
-			},
-			{
-				"iso639_1": "ta",
-				"iso639_2": "tam",
-				"name": "Tamil",
-				"nativeName": "தமிழ்"
-			}
+			{ "iso639_1": "si", "iso639_2": "sin", "name": "Sinhalese", "nativeName": "සිංහල" },
+			{ "iso639_1": "ta", "iso639_2": "tam", "name": "Tamil", "nativeName": "தமிழ்" }
 		],
 		"translations": {
 			"de": "Sri Lanka",
@@ -13282,26 +10262,10 @@
 		"borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"],
 		"nativeName": "السودان",
 		"numericCode": "729",
-		"currencies": [
-			{
-				"code": "SDG",
-				"name": "Sudanese pound",
-				"symbol": "ج.س."
-			}
-		],
+		"currencies": [{ "code": "SDG", "name": "Sudanese pound", "symbol": "ج.س." }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Sudan",
@@ -13361,20 +10325,9 @@
 		"borders": ["BRA", "GUF", "FRA", "GUY"],
 		"nativeName": "Suriname",
 		"numericCode": "740",
-		"currencies": [
-			{
-				"code": "SRD",
-				"name": "Surinamese dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "SRD", "name": "Surinamese dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "nl",
-				"iso639_2": "nld",
-				"name": "Dutch",
-				"nativeName": "Nederlands"
-			}
+			{ "iso639_1": "nl", "iso639_2": "nld", "name": "Dutch", "nativeName": "Nederlands" }
 		],
 		"translations": {
 			"de": "Suriname",
@@ -13429,20 +10382,9 @@
 		"borders": [],
 		"nativeName": "Svalbard og Jan Mayen",
 		"numericCode": "744",
-		"currencies": [
-			{
-				"code": "NOK",
-				"name": "Norwegian krone",
-				"symbol": "kr"
-			}
-		],
+		"currencies": [{ "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }],
 		"languages": [
-			{
-				"iso639_1": "no",
-				"iso639_2": "nor",
-				"name": "Norwegian",
-				"nativeName": "Norsk"
-			}
+			{ "iso639_1": "no", "iso639_2": "nor", "name": "Norwegian", "nativeName": "Norsk" }
 		],
 		"translations": {
 			"de": "Svalbard und Jan Mayen",
@@ -13486,26 +10428,10 @@
 		"borders": ["MOZ", "ZAF"],
 		"nativeName": "Swaziland",
 		"numericCode": "748",
-		"currencies": [
-			{
-				"code": "SZL",
-				"name": "Swazi lilangeni",
-				"symbol": "L"
-			}
-		],
+		"currencies": [{ "code": "SZL", "name": "Swazi lilangeni", "symbol": "L" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "ss",
-				"iso639_2": "ssw",
-				"name": "Swati",
-				"nativeName": "SiSwati"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "ss", "iso639_2": "ssw", "name": "Swati", "nativeName": "SiSwati" }
 		],
 		"translations": {
 			"de": "Swasiland",
@@ -13555,20 +10481,9 @@
 		"borders": ["FIN", "NOR"],
 		"nativeName": "Sverige",
 		"numericCode": "752",
-		"currencies": [
-			{
-				"code": "SEK",
-				"name": "Swedish krona",
-				"symbol": "kr"
-			}
-		],
+		"currencies": [{ "code": "SEK", "name": "Swedish krona", "symbol": "kr" }],
 		"languages": [
-			{
-				"iso639_1": "sv",
-				"iso639_2": "swe",
-				"name": "Swedish",
-				"nativeName": "svenska"
-			}
+			{ "iso639_1": "sv", "iso639_2": "swe", "name": "Swedish", "nativeName": "svenska" }
 		],
 		"translations": {
 			"de": "Schweden",
@@ -13584,12 +10499,7 @@
 		},
 		"flag": "https://restcountries.eu/data/swe.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "SWE"
 	},
@@ -13612,32 +10522,11 @@
 		"borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
 		"nativeName": "Schweiz",
 		"numericCode": "756",
-		"currencies": [
-			{
-				"code": "CHF",
-				"name": "Swiss franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "de",
-				"iso639_2": "deu",
-				"name": "German",
-				"nativeName": "Deutsch"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			},
-			{
-				"iso639_1": "it",
-				"iso639_2": "ita",
-				"name": "Italian",
-				"nativeName": "Italiano"
-			}
+			{ "iso639_1": "de", "iso639_2": "deu", "name": "German", "nativeName": "Deutsch" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" },
+			{ "iso639_1": "it", "iso639_2": "ita", "name": "Italian", "nativeName": "Italiano" }
 		],
 		"translations": {
 			"de": "Schweiz",
@@ -13681,20 +10570,9 @@
 		"borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
 		"nativeName": "سوريا",
 		"numericCode": "760",
-		"currencies": [
-			{
-				"code": "SYP",
-				"name": "Syrian pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "SYP", "name": "Syrian pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Syrien",
@@ -13742,20 +10620,9 @@
 		"borders": [],
 		"nativeName": "臺灣",
 		"numericCode": "158",
-		"currencies": [
-			{
-				"code": "TWD",
-				"name": "New Taiwan dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "TWD", "name": "New Taiwan dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "zh",
-				"iso639_2": "zho",
-				"name": "Chinese",
-				"nativeName": "中文 (Zhōngwén)"
-			}
+			{ "iso639_1": "zh", "iso639_2": "zho", "name": "Chinese", "nativeName": "中文 (Zhōngwén)" }
 		],
 		"translations": {
 			"de": "Taiwan",
@@ -13798,26 +10665,10 @@
 		"borders": ["AFG", "CHN", "KGZ", "UZB"],
 		"nativeName": "Тоҷикистон",
 		"numericCode": "762",
-		"currencies": [
-			{
-				"code": "TJS",
-				"name": "Tajikistani somoni",
-				"symbol": "ЅМ"
-			}
-		],
+		"currencies": [{ "code": "TJS", "name": "Tajikistani somoni", "symbol": "ЅМ" }],
 		"languages": [
-			{
-				"iso639_1": "tg",
-				"iso639_2": "tgk",
-				"name": "Tajik",
-				"nativeName": "тоҷикӣ"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "tg", "iso639_2": "tgk", "name": "Tajik", "nativeName": "тоҷикӣ" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Tadschikistan",
@@ -13854,26 +10705,10 @@
 		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
 		"nativeName": "Tanzania",
 		"numericCode": "834",
-		"currencies": [
-			{
-				"code": "TZS",
-				"name": "Tanzanian shilling",
-				"symbol": "Sh"
-			}
-		],
+		"currencies": [{ "code": "TZS", "name": "Tanzanian shilling", "symbol": "Sh" }],
 		"languages": [
-			{
-				"iso639_1": "sw",
-				"iso639_2": "swa",
-				"name": "Swahili",
-				"nativeName": "Kiswahili"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "sw", "iso639_2": "swa", "name": "Swahili", "nativeName": "Kiswahili" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Tansania",
@@ -13930,21 +10765,8 @@
 		"borders": ["MMR", "KHM", "LAO", "MYS"],
 		"nativeName": "ประเทศไทย",
 		"numericCode": "764",
-		"currencies": [
-			{
-				"code": "THB",
-				"name": "Thai baht",
-				"symbol": "฿"
-			}
-		],
-		"languages": [
-			{
-				"iso639_1": "th",
-				"iso639_2": "tha",
-				"name": "Thai",
-				"nativeName": "ไทย"
-			}
-		],
+		"currencies": [{ "code": "THB", "name": "Thai baht", "symbol": "฿" }],
+		"languages": [{ "iso639_1": "th", "iso639_2": "tha", "name": "Thai", "nativeName": "ไทย" }],
 		"translations": {
 			"de": "Thailand",
 			"es": "Tailandia",
@@ -13994,24 +10816,11 @@
 		"nativeName": "Timor-Leste",
 		"numericCode": "626",
 		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			},
-			{
-				"code": null,
-				"name": null,
-				"symbol": null
-			}
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" },
+			{ "code": null, "name": null, "symbol": null }
 		],
 		"languages": [
-			{
-				"iso639_1": "pt",
-				"iso639_2": "por",
-				"name": "Portuguese",
-				"nativeName": "Português"
-			}
+			{ "iso639_1": "pt", "iso639_2": "por", "name": "Portuguese", "nativeName": "Português" }
 		],
 		"translations": {
 			"de": "Timor-Leste",
@@ -14048,20 +10857,9 @@
 		"borders": ["BEN", "BFA", "GHA"],
 		"nativeName": "Togo",
 		"numericCode": "768",
-		"currencies": [
-			{
-				"code": "XOF",
-				"name": "West African CFA franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Togo",
@@ -14111,20 +10909,9 @@
 		"borders": [],
 		"nativeName": "Tokelau",
 		"numericCode": "772",
-		"currencies": [
-			{
-				"code": "NZD",
-				"name": "New Zealand dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Tokelau",
@@ -14161,20 +10948,9 @@
 		"borders": [],
 		"nativeName": "Tonga",
 		"numericCode": "776",
-		"currencies": [
-			{
-				"code": "TOP",
-				"name": "Tongan paʻanga",
-				"symbol": "T$"
-			}
-		],
+		"currencies": [{ "code": "TOP", "name": "Tongan paʻanga", "symbol": "T$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
 			{
 				"iso639_1": "to",
 				"iso639_2": "ton",
@@ -14217,20 +10993,9 @@
 		"borders": [],
 		"nativeName": "Trinidad and Tobago",
 		"numericCode": "780",
-		"currencies": [
-			{
-				"code": "TTD",
-				"name": "Trinidad and Tobago dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "TTD", "name": "Trinidad and Tobago dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Trinidad und Tobago",
@@ -14274,20 +11039,9 @@
 		"borders": ["DZA", "LBY"],
 		"nativeName": "تونس",
 		"numericCode": "788",
-		"currencies": [
-			{
-				"code": "TND",
-				"name": "Tunisian dinar",
-				"symbol": "د.ت"
-			}
-		],
+		"currencies": [{ "code": "TND", "name": "Tunisian dinar", "symbol": "د.ت" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Tunesien",
@@ -14347,20 +11101,9 @@
 		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
 		"nativeName": "Türkiye",
 		"numericCode": "792",
-		"currencies": [
-			{
-				"code": "TRY",
-				"name": "Turkish lira",
-				"symbol": null
-			}
-		],
+		"currencies": [{ "code": "TRY", "name": "Turkish lira", "symbol": null }],
 		"languages": [
-			{
-				"iso639_1": "tr",
-				"iso639_2": "tur",
-				"name": "Turkish",
-				"nativeName": "Türkçe"
-			}
+			{ "iso639_1": "tr", "iso639_2": "tur", "name": "Turkish", "nativeName": "Türkçe" }
 		],
 		"translations": {
 			"de": "Türkei",
@@ -14397,26 +11140,10 @@
 		"borders": ["AFG", "IRN", "KAZ", "UZB"],
 		"nativeName": "Türkmenistan",
 		"numericCode": "795",
-		"currencies": [
-			{
-				"code": "TMT",
-				"name": "Turkmenistan manat",
-				"symbol": "m"
-			}
-		],
+		"currencies": [{ "code": "TMT", "name": "Turkmenistan manat", "symbol": "m" }],
 		"languages": [
-			{
-				"iso639_1": "tk",
-				"iso639_2": "tuk",
-				"name": "Turkmen",
-				"nativeName": "Türkmen"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "tk", "iso639_2": "tuk", "name": "Turkmen", "nativeName": "Türkmen" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Turkmenistan",
@@ -14453,20 +11180,9 @@
 		"borders": [],
 		"nativeName": "Turks and Caicos Islands",
 		"numericCode": "796",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Turks- und Caicosinseln",
@@ -14504,24 +11220,11 @@
 		"nativeName": "Tuvalu",
 		"numericCode": "798",
 		"currencies": [
-			{
-				"code": "AUD",
-				"name": "Australian dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "TVD[G]",
-				"name": "Tuvaluan dollar",
-				"symbol": "$"
-			}
+			{ "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+			{ "code": "TVD[G]", "name": "Tuvaluan dollar", "symbol": "$" }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Tuvalu",
@@ -14558,26 +11261,10 @@
 		"borders": ["COD", "KEN", "RWA", "SSD", "TZA"],
 		"nativeName": "Uganda",
 		"numericCode": "800",
-		"currencies": [
-			{
-				"code": "UGX",
-				"name": "Ugandan shilling",
-				"symbol": "Sh"
-			}
-		],
+		"currencies": [{ "code": "UGX", "name": "Ugandan shilling", "symbol": "Sh" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "sw",
-				"iso639_2": "swa",
-				"name": "Swahili",
-				"nativeName": "Kiswahili"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "sw", "iso639_2": "swa", "name": "Swahili", "nativeName": "Kiswahili" }
 		],
 		"translations": {
 			"de": "Uganda",
@@ -14627,20 +11314,9 @@
 		"borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
 		"nativeName": "Україна",
 		"numericCode": "804",
-		"currencies": [
-			{
-				"code": "UAH",
-				"name": "Ukrainian hryvnia",
-				"symbol": "₴"
-			}
-		],
+		"currencies": [{ "code": "UAH", "name": "Ukrainian hryvnia", "symbol": "₴" }],
 		"languages": [
-			{
-				"iso639_1": "uk",
-				"iso639_2": "ukr",
-				"name": "Ukrainian",
-				"nativeName": "Українська"
-			}
+			{ "iso639_1": "uk", "iso639_2": "ukr", "name": "Ukrainian", "nativeName": "Українська" }
 		],
 		"translations": {
 			"de": "Ukraine",
@@ -14677,20 +11353,9 @@
 		"borders": ["OMN", "SAU"],
 		"nativeName": "دولة الإمارات العربية المتحدة",
 		"numericCode": "784",
-		"currencies": [
-			{
-				"code": "AED",
-				"name": "United Arab Emirates dirham",
-				"symbol": "د.إ"
-			}
-		],
+		"currencies": [{ "code": "AED", "name": "United Arab Emirates dirham", "symbol": "د.إ" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Vereinigte Arabische Emirate",
@@ -14748,20 +11413,9 @@
 		"borders": ["IRL"],
 		"nativeName": "United Kingdom",
 		"numericCode": "826",
-		"currencies": [
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			}
-		],
+		"currencies": [{ "code": "GBP", "name": "British pound", "symbol": "£" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Vereinigtes Königreich",
@@ -14777,12 +11431,7 @@
 		},
 		"flag": "https://restcountries.eu/data/gbr.svg",
 		"regionalBlocs": [
-			{
-				"acronym": "EU",
-				"name": "European Union",
-				"otherAcronyms": [],
-				"otherNames": []
-			}
+			{ "acronym": "EU", "name": "European Union", "otherAcronyms": [], "otherNames": [] }
 		],
 		"cioc": "GBR"
 	},
@@ -14817,20 +11466,9 @@
 		"borders": ["CAN", "MEX"],
 		"nativeName": "United States",
 		"numericCode": "840",
-		"currencies": [
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "USD", "name": "United States dollar", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Vereinigte Staaten von Amerika",
@@ -14877,20 +11515,9 @@
 		"borders": ["ARG", "BRA"],
 		"nativeName": "Uruguay",
 		"numericCode": "858",
-		"currencies": [
-			{
-				"code": "UYU",
-				"name": "Uruguayan peso",
-				"symbol": "$"
-			}
-		],
+		"currencies": [{ "code": "UYU", "name": "Uruguayan peso", "symbol": "$" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Uruguay",
@@ -14944,26 +11571,10 @@
 		"borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
 		"nativeName": "O‘zbekiston",
 		"numericCode": "860",
-		"currencies": [
-			{
-				"code": "UZS",
-				"name": "Uzbekistani so'm",
-				"symbol": null
-			}
-		],
+		"currencies": [{ "code": "UZS", "name": "Uzbekistani so'm", "symbol": null }],
 		"languages": [
-			{
-				"iso639_1": "uz",
-				"iso639_2": "uzb",
-				"name": "Uzbek",
-				"nativeName": "Oʻzbek"
-			},
-			{
-				"iso639_1": "ru",
-				"iso639_2": "rus",
-				"name": "Russian",
-				"nativeName": "Русский"
-			}
+			{ "iso639_1": "uz", "iso639_2": "uzb", "name": "Uzbek", "nativeName": "Oʻzbek" },
+			{ "iso639_1": "ru", "iso639_2": "rus", "name": "Russian", "nativeName": "Русский" }
 		],
 		"translations": {
 			"de": "Usbekistan",
@@ -15005,32 +11616,11 @@
 		"borders": [],
 		"nativeName": "Vanuatu",
 		"numericCode": "548",
-		"currencies": [
-			{
-				"code": "VUV",
-				"name": "Vanuatu vatu",
-				"symbol": "Vt"
-			}
-		],
+		"currencies": [{ "code": "VUV", "name": "Vanuatu vatu", "symbol": "Vt" }],
 		"languages": [
-			{
-				"iso639_1": "bi",
-				"iso639_2": "bis",
-				"name": "Bislama",
-				"nativeName": "Bislama"
-			},
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "bi", "iso639_2": "bis", "name": "Bislama", "nativeName": "Bislama" },
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Vanuatu",
@@ -15071,20 +11661,9 @@
 		"borders": ["BRA", "COL", "GUY"],
 		"nativeName": "Venezuela",
 		"numericCode": "862",
-		"currencies": [
-			{
-				"code": "VEF",
-				"name": "Venezuelan bolívar",
-				"symbol": "Bs F"
-			}
-		],
+		"currencies": [{ "code": "VEF", "name": "Venezuelan bolívar", "symbol": "Bs F" }],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Venezuela",
@@ -15133,20 +11712,9 @@
 		"borders": ["KHM", "CHN", "LAO"],
 		"nativeName": "Việt Nam",
 		"numericCode": "704",
-		"currencies": [
-			{
-				"code": "VND",
-				"name": "Vietnamese đồng",
-				"symbol": "₫"
-			}
-		],
+		"currencies": [{ "code": "VND", "name": "Vietnamese đồng", "symbol": "₫" }],
 		"languages": [
-			{
-				"iso639_1": "vi",
-				"iso639_2": "vie",
-				"name": "Vietnamese",
-				"nativeName": "Tiếng Việt"
-			}
+			{ "iso639_1": "vi", "iso639_2": "vie", "name": "Vietnamese", "nativeName": "Tiếng Việt" }
 		],
 		"translations": {
 			"de": "Vietnam",
@@ -15194,20 +11762,9 @@
 		"borders": [],
 		"nativeName": "Wallis et Futuna",
 		"numericCode": "876",
-		"currencies": [
-			{
-				"code": "XPF",
-				"name": "CFP franc",
-				"symbol": "Fr"
-			}
-		],
+		"currencies": [{ "code": "XPF", "name": "CFP franc", "symbol": "Fr" }],
 		"languages": [
-			{
-				"iso639_1": "fr",
-				"iso639_2": "fra",
-				"name": "French",
-				"nativeName": "français"
-			}
+			{ "iso639_1": "fr", "iso639_2": "fra", "name": "French", "nativeName": "français" }
 		],
 		"translations": {
 			"de": "Wallis und Futuna",
@@ -15245,24 +11802,11 @@
 		"nativeName": "الصحراء الغربية",
 		"numericCode": "732",
 		"currencies": [
-			{
-				"code": "MAD",
-				"name": "Moroccan dirham",
-				"symbol": "د.م."
-			},
-			{
-				"code": "DZD",
-				"name": "Algerian dinar",
-				"symbol": "د.ج"
-			}
+			{ "code": "MAD", "name": "Moroccan dirham", "symbol": "د.م." },
+			{ "code": "DZD", "name": "Algerian dinar", "symbol": "د.ج" }
 		],
 		"languages": [
-			{
-				"iso639_1": "es",
-				"iso639_2": "spa",
-				"name": "Spanish",
-				"nativeName": "Español"
-			}
+			{ "iso639_1": "es", "iso639_2": "spa", "name": "Spanish", "nativeName": "Español" }
 		],
 		"translations": {
 			"de": "Westsahara",
@@ -15312,20 +11856,9 @@
 		"borders": ["OMN", "SAU"],
 		"nativeName": "اليَمَن",
 		"numericCode": "887",
-		"currencies": [
-			{
-				"code": "YER",
-				"name": "Yemeni rial",
-				"symbol": "﷼"
-			}
-		],
+		"currencies": [{ "code": "YER", "name": "Yemeni rial", "symbol": "﷼" }],
 		"languages": [
-			{
-				"iso639_1": "ar",
-				"iso639_2": "ara",
-				"name": "Arabic",
-				"nativeName": "العربية"
-			}
+			{ "iso639_1": "ar", "iso639_2": "ara", "name": "Arabic", "nativeName": "العربية" }
 		],
 		"translations": {
 			"de": "Jemen",
@@ -15373,20 +11906,9 @@
 		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
 		"nativeName": "Zambia",
 		"numericCode": "894",
-		"currencies": [
-			{
-				"code": "ZMW",
-				"name": "Zambian kwacha",
-				"symbol": "ZK"
-			}
-		],
+		"currencies": [{ "code": "ZMW", "name": "Zambian kwacha", "symbol": "ZK" }],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			}
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" }
 		],
 		"translations": {
 			"de": "Sambia",
@@ -15437,65 +11959,19 @@
 		"nativeName": "Zimbabwe",
 		"numericCode": "716",
 		"currencies": [
-			{
-				"code": "BWP",
-				"name": "Botswana pula",
-				"symbol": "P"
-			},
-			{
-				"code": "GBP",
-				"name": "British pound",
-				"symbol": "£"
-			},
-			{
-				"code": "CNY",
-				"name": "Chinese yuan",
-				"symbol": "¥"
-			},
-			{
-				"code": "EUR",
-				"name": "Euro",
-				"symbol": "€"
-			},
-			{
-				"code": "INR",
-				"name": "Indian rupee",
-				"symbol": "₹"
-			},
-			{
-				"code": "JPY",
-				"name": "Japanese yen",
-				"symbol": "¥"
-			},
-			{
-				"code": "ZAR",
-				"name": "South African rand",
-				"symbol": "Rs"
-			},
-			{
-				"code": "USD",
-				"name": "United States dollar",
-				"symbol": "$"
-			},
-			{
-				"code": "(none)",
-				"name": null,
-				"symbol": null
-			}
+			{ "code": "BWP", "name": "Botswana pula", "symbol": "P" },
+			{ "code": "GBP", "name": "British pound", "symbol": "£" },
+			{ "code": "CNY", "name": "Chinese yuan", "symbol": "¥" },
+			{ "code": "EUR", "name": "Euro", "symbol": "€" },
+			{ "code": "INR", "name": "Indian rupee", "symbol": "₹" },
+			{ "code": "JPY", "name": "Japanese yen", "symbol": "¥" },
+			{ "code": "ZAR", "name": "South African rand", "symbol": "Rs" },
+			{ "code": "USD", "name": "United States dollar", "symbol": "$" },
+			{ "code": "(none)", "name": null, "symbol": null }
 		],
 		"languages": [
-			{
-				"iso639_1": "en",
-				"iso639_2": "eng",
-				"name": "English",
-				"nativeName": "English"
-			},
-			{
-				"iso639_1": "sn",
-				"iso639_2": "sna",
-				"name": "Shona",
-				"nativeName": "chiShona"
-			},
+			{ "iso639_1": "en", "iso639_2": "eng", "name": "English", "nativeName": "English" },
+			{ "iso639_1": "sn", "iso639_2": "sna", "name": "Shona", "nativeName": "chiShona" },
 			{
 				"iso639_1": "nd",
 				"iso639_2": "nde",

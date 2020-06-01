@@ -11,6 +11,7 @@ const Map = () => {
 	useEffect(() => {
 		//Init Map
 		mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN!;
+		console.log(process.env.REACT_APP_MAPBOX_TOKEN!);
 		const map = new mapboxgl.Map({
 			container: mapContainer.current!,
 			style: 'mapbox://styles/mapbox/navigation-guidance-night-v4',
