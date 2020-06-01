@@ -5,14 +5,14 @@ The app using
 [mapBox](https://www.mapbox.com/) to display world map and [OpenWeather API](https://openweathermap.org/api) to fetch current weather data.
 The app is adapted for large screen size as well as for mobile screen size.
 
-Check the live demo hosted on Heroku [here](https://nba-app-7e573.firebaseapp.com/).
+Check the live demo hosted on Heroku [here](https://mapbox-weather-app.herokuapp.com/).
 
 ## Instructions
 
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/mizrahiomer/weather-app.git
+$ git clone https://github.com/mizrahiomer/mapbox-weather-app.git
 ```
 
 Install dependencies.
