@@ -11,7 +11,6 @@ const Sidebar: FC = () => {
 	return (
 		<div className='sidebar'>
 			<input
-				autoFocus
 				className='sidebar__input'
 				value={searchQuery}
 				placeholder='Enter country name'

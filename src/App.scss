@@ -157,6 +157,7 @@ body {
 	/* SideBar */
 	.sidebar__input {
 		padding: 0.2em 0.1em;
+		font-size: 0.8em;
 	}
 	.list {
 		padding-bottom: 2em;
@@ -175,18 +176,18 @@ body {
 	}
 	::-webkit-input-placeholder {
 		/* Chrome/Opera/Safari */
-		font-size: 0.6em;
+		font-size: 0.8em;
 	}
 	::-moz-placeholder {
 		/* Firefox 19+ */
-		font-size: 0.6em;
+		font-size: 0.8em;
 	}
 	:-ms-input-placeholder {
 		/* IE 10+ */
-		font-size: 0.6em;
+		font-size: 0.8em;
 	}
 	:-moz-placeholder {
 		/* Firefox 18- */
-		font-size: 0.6em;
+		font-size: 0.8em;
 	}
 }
