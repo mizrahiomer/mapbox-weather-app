@@ -35,7 +35,7 @@ body {
 	background: inherit;
 }
 ::-webkit-scrollbar-thumb {
-	height: 3em;
+	height: 7em;
 	background: $secondary;
 	border-radius: 0;
 }
@@ -56,23 +56,28 @@ body {
 	outline: none;
 	font-size: 1.3em;
 	color: $primary;
+	font-family: 'Oswald', sans-serif;
 }
 
 ::-webkit-input-placeholder {
 	/* Chrome/Opera/Safari */
 	color: $primary;
+	font-family: 'Oswald', sans-serif;
 }
 ::-moz-placeholder {
 	/* Firefox 19+ */
 	color: $primary;
+	font-family: 'Oswald', sans-serif;
 }
 :-ms-input-placeholder {
 	/* IE 10+ */
 	color: $primary;
+	font-family: 'Oswald', sans-serif;
 }
 :-moz-placeholder {
 	/* Firefox 18- */
 	color: $primary;
+	font-family: 'Oswald', sans-serif;
 }
 
 .list {
@@ -80,7 +85,7 @@ body {
 	color: #fff;
 	height: 100vh;
 	overflow-y: auto;
-	padding-bottom: 3em;
+	padding-bottom: 4em;
 }
 
 .list__error {
@@ -148,26 +153,6 @@ body {
 	font-size: 1.05em;
 }
 
-::-webkit-input-placeholder {
-	/* Chrome/Opera/Safari */
-	color: $primary;
-	font-family: 'Oswald', sans-serif;
-}
-::-moz-placeholder {
-	/* Firefox 19+ */
-	color: $primary;
-	font-family: 'Oswald', sans-serif;
-}
-:-ms-input-placeholder {
-	/* IE 10+ */
-	color: $primary;
-	font-family: 'Oswald', sans-serif;
-}
-:-moz-placeholder {
-	/* Firefox 18- */
-	color: $primary;
-	font-family: 'Oswald', sans-serif;
-}
 @media only screen and (max-width: 768px) {
 	/* SideBar */
 	.sidebar__input {
