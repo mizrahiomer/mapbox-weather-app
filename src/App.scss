@@ -93,6 +93,16 @@ body {
 	word-wrap: break-word;
 	padding: 0.5em;
 	border-bottom: $secondary solid 0.1em;
+	transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.list__item:hover {
+	background: $secondary;
+	color: $primary;
+	.list__item__coords {
+		color: $primary;
+		font-size: 0.8em;
+	}
 }
 
 .list__item__name {
@@ -109,6 +119,11 @@ body {
 }
 .current {
 	background: $secondary;
+	color: $primary;
+	.list__item__coords {
+		color: $primary;
+		font-size: 0.8em;
+	}
 }
 
 /* Popup */
